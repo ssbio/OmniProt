@@ -110,7 +110,7 @@ Final output files appear in:
 ```
 results/
 results/data/
-results/data/figures/
+figures/
 ```
 
 ---
@@ -133,7 +133,7 @@ This exports:
 All figures are exported to:
 
 ```
-results/data/figures/
+figures/
 ```
 
 ---
@@ -182,9 +182,7 @@ Major modules (specified in `OmniProt.yml`):
 
 ---
 
-## 🧪 Scientific Impact
-
-OmniProt enables:
+## 🧪 OmniProt enables:
 
 - proteome-level growth prediction
 - mechanistic interpretation
@@ -197,7 +195,7 @@ This framework generalizes to microbial systems beyond *R. palustris*.
 
 ## 📄 License
 
-MIT License—academic reuse encouraged.
+MIT License—academic use.
 
 ---
 
