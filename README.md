@@ -200,11 +200,3 @@ This framework generalizes to microbial systems beyond *R. palustris*.
 ## 📄 License
 
 MIT License—academic use.
-
----
-
-## 📬 Contact
-
-**Abraham Osinuga**
-University of Nebraska–Lincoln
-Email: aosinuga2@huskers.unl.edu
