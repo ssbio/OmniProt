@@ -11,6 +11,7 @@ This repository supports the manuscript:
 ## 🌐 Overview
 
 Microbial lignin catabolism requires extensive metabolic flexibility, yet the quantitative proteomic determinants of growth remain unknown. OmniProt tests whether microbial growth outcomes across 16 substrate × oxygen conditions can be predicted directly from proteome composition—and whether feature importance can resolve core vs. adaptive biological drivers.
+![OmniProt Overview](assets/Fig1_Overview.jpg)
 
 The framework provides:
 
@@ -20,6 +21,10 @@ The framework provides:
 - Dependence-aware hierarchical clustering
 - Redundancy removal + tiered determinant mapping
 - Automated figure generation for publication
+
+## 🧬 Determinant Discovery Framework
+
+![Growth Determinants](assets/Fig2_Determinants.jpg)
 
 ---
 
