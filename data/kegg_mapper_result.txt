@@ -1,0 +1,2539 @@
+rpa01100 Metabolic pathways (366)
+
+  rpa:TX73_000085 K00406 ccoP; cytochrome-c oxidase, cbb3-type subunit III
+  rpa:TX73_000095 K00405 ccoO; cytochrome-c oxidase, cbb3-type subunit II
+  rpa:TX73_000130 K00681 ggt; gamma-glutamyltransferase
+  rpa:TX73_000140 K01626 3-deoxy-7-phosphoheptulonate synthase
+  rpa:TX73_000145 K00602 purH; bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+  rpa:TX73_000220 K00799 glutathione S-transferase family protein
+  rpa:TX73_000395 K00992 nucleotidyltransferase family protein
+  rpa:TX73_000405 K07102 bifunctional tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE/phosphotransferase
+  rpa:TX73_000610 K01790 rfbC; dTDP-4-dehydrorhamnose 3,5-epimerase
+  rpa:TX73_000615 K00067 rfbD; dTDP-4-dehydrorhamnose reductase
+  rpa:TX73_000900 K08678 SDR family oxidoreductase
+  rpa:TX73_000960 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_000975 K00658 odhB; 2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase
+  rpa:TX73_000980 K00164 2-oxoglutarate dehydrogenase E1 component
+  rpa:TX73_000985 K01902 sucD; succinate--CoA ligase subunit alpha
+  rpa:TX73_001045 K27802 acnA; aconitate hydratase AcnA
+  rpa:TX73_001095 K01895 acs; acetate--CoA ligase
+  rpa:TX73_001120 K00240 succinate dehydrogenase iron-sulfur subunit
+  rpa:TX73_001125 K00239 sdhA; succinate dehydrogenase flavoprotein subunit
+  rpa:TX73_001130 K00242 sdhD; succinate dehydrogenase, hydrophobic membrane anchor protein
+  rpa:TX73_001145 K18661 malonyl-CoA synthase
+  rpa:TX73_001190 K00133 aspartate-semialdehyde dehydrogenase
+  rpa:TX73_001200 K01673 carbonic anhydrase
+  rpa:TX73_001330 K01719 uroporphyrinogen-III synthase
+  rpa:TX73_001840 K02793 PTS sugar transporter subunit IIA
+  rpa:TX73_001930 K01761 megL; methionine gamma-lyase
+  rpa:TX73_001970 K16370 1-phosphofructokinase family hexose kinase
+  rpa:TX73_002195 K00015 D-glycerate dehydrogenase
+  rpa:TX73_002215 K00647 fabB; beta-ketoacyl-ACP synthase I
+  rpa:TX73_002220 K00208 fabI; enoyl-ACP reductase FabI
+  rpa:TX73_002380 K18372 serine hydrolase
+  rpa:TX73_002390 K00135 NAD-dependent succinate-semialdehyde dehydrogenase
+  rpa:TX73_002490 K00249 acyl-CoA/acyl-ACP dehydrogenase
+  rpa:TX73_002495 K00249 acyl-CoA dehydrogenase family protein
+  rpa:TX73_002510 K15866 enoyl-CoA hydratase
+  rpa:TX73_002575 K09883 cobT; cobaltochelatase subunit CobT
+  rpa:TX73_002585 K09882 cobS; cobaltochelatase subunit CobS
+  rpa:TX73_002715 K00795 polyprenyl synthetase family protein
+  rpa:TX73_002750 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_002755 K00023 beta-ketoacyl-ACP reductase
+  rpa:TX73_002780 K18118 acetyl-CoA hydrolase/transferase family protein
+  rpa:TX73_002885 K01738 cysK; cysteine synthase A
+  rpa:TX73_002890 K01923 phosphoribosylaminoimidazolesuccinocarboxamide synthase
+  rpa:TX73_002945 K01069 MBL fold metallo-hydrolase
+  rpa:TX73_003125 K00928 aspartate kinase
+  rpa:TX73_003170 K03426 nudC; NAD(+) diphosphatase
+  rpa:TX73_003385 K07536 badI; 2-ketocyclohexanecarboxyl-CoA hydrolase
+  rpa:TX73_003390 K07535 badH; 2-hydroxycyclohexanecarboxyl-CoA dehydrogenase
+  rpa:TX73_003410 K04113 bcrB; benzoyl-CoA reductase subunit B
+  rpa:TX73_003425 K04110 benzoate-CoA ligase family protein
+  rpa:TX73_003715 K02232 cobyric acid synthase
+  rpa:TX73_003785 K00127 formate dehydrogenase subunit gamma
+  rpa:TX73_003795 K00123 fdhF; formate dehydrogenase subunit alpha
+  rpa:TX73_003880 K00390 phosphoadenylyl-sulfate reductase
+  rpa:TX73_003890 K00955 cysC; adenylyl-sulfate kinase
+  rpa:TX73_004005 K00681 gamma-glutamyltransferase
+  rpa:TX73_004095 K01674 carbonic anhydrase
+  rpa:TX73_004210 K20035 acyl-CoA dehydrogenase C-terminal domain-containing protein
+  rpa:TX73_004215 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004220 K01782 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_004230 K00799 gstA; glutathione transferase GstA
+  rpa:TX73_004285 K02275 coxB; cytochrome c oxidase subunit II
+  rpa:TX73_004400 K00643 hemA; 5-aminolevulinate synthase
+  rpa:TX73_004485 K01581 type III PLP-dependent enzyme
+  rpa:TX73_004570 K00963 galU; UTP--glucose-1-phosphate uridylyltransferase GalU
+  rpa:TX73_004590 K00265 gltB; glutamate synthase large subunit
+  rpa:TX73_004595 K00266 glutamate synthase subunit beta
+  rpa:TX73_004805 K24843 SCP2 sterol-binding domain-containing protein
+  rpa:TX73_004810 K24844 U32 family peptidase
+  rpa:TX73_004815 K24845 U32 family peptidase
+  rpa:TX73_004830 K01092 inositol monophosphatase family protein
+  rpa:TX73_004840 K00788 thiamine phosphate synthase
+  rpa:TX73_004845 K01623 fructose-bisphosphate aldolase class I
+  rpa:TX73_004865 K00134 gap; type I glyceraldehyde-3-phosphate dehydrogenase
+  rpa:TX73_004870 K00615 tkt; transketolase
+  rpa:TX73_004935 K20035 acyl-CoA dehydrogenase
+  rpa:TX73_005065 K01915 glutamine synthetase family protein
+  rpa:TX73_005180 K04101 class III extradiol dioxygenase family protein
+  rpa:TX73_005225 K00411 petA; ubiquinol-cytochrome c reductase iron-sulfur subunit
+  rpa:TX73_005285 K03638 moaB; molybdenum cofactor biosynthesis protein B
+  rpa:TX73_005415 K00767 nadC; carboxylating nicotinate-nucleotide diphosphorylase
+  rpa:TX73_005430 K19745 oxidoreductase
+  rpa:TX73_005495 K01465 dihydroorotase
+  rpa:TX73_005625 K00252 acyl-CoA dehydrogenase
+  rpa:TX73_005660 K01489 cytidine deaminase
+  rpa:TX73_005805 K00104 FAD-linked oxidase C-terminal domain-containing protein
+  rpa:TX73_005810 K11472 FAD-binding protein
+  rpa:TX73_005905 K02502 ATP phosphoribosyltransferase regulatory subunit
+  rpa:TX73_005995 K03635 molybdenum cofactor biosynthesis protein MoaE
+  rpa:TX73_006040 K01821 tautomerase family protein
+  rpa:TX73_006110 K10026 queE; 7-carboxy-7-deazaguanine synthase
+  rpa:TX73_006125 K00410 cytochrome c1
+  rpa:TX73_006130 K01061 dienelactone hydrolase family protein
+  rpa:TX73_006160 K00208 fabI; enoyl-ACP reductase FabI
+  rpa:TX73_006190 K13954 yiaY; L-threonine dehydrogenase
+  rpa:TX73_006295 K00174 2-oxoacid:acceptor oxidoreductase subunit alpha
+  rpa:TX73_006305 K00177 2-oxoacid:acceptor oxidoreductase family protein
+  rpa:TX73_006345 K00249 acyl-CoA dehydrogenase family protein
+  rpa:TX73_006475 K00803 FAD-binding oxidoreductase
+  rpa:TX73_006555 K01956 carA; glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit
+  rpa:TX73_006705 K00570 class I SAM-dependent methyltransferase
+  rpa:TX73_007310 K11717 family 2A encapsulin nanocompartment cargo protein cysteine desulfurase
+  rpa:TX73_007445 K01897 AMP-binding protein
+  rpa:TX73_007630 K01835 pgm; phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+  rpa:TX73_007740 K03405 bchI; magnesium chelatase ATPase subunit I
+  rpa:TX73_007745 K03404 magnesium chelatase subunit D
+  rpa:TX73_007770 K10027 phytoene desaturase
+  rpa:TX73_007775 K02291 phytoene/squalene synthase family protein
+  rpa:TX73_007780 K00228 hemF; oxygen-dependent coproporphyrinogen oxidase
+  rpa:TX73_007805 K09845 crtI; phytoene desaturase family protein
+  rpa:TX73_007810 K13789 polyprenyl synthetase family protein
+  rpa:TX73_007880 K10960 geranylgeranyl diphosphate reductase
+  rpa:TX73_007910 K21480 biliverdin-producing heme oxygenase
+  rpa:TX73_007935 K03403 magnesium chelatase subunit H
+  rpa:TX73_007945 K03428 bchM; magnesium protoporphyrin IX methyltransferase
+  rpa:TX73_007985 K00643 hemA; 5-aminolevulinate synthase
+  rpa:TX73_008015 K01602 ribulose bisphosphate carboxylase small subunit
+  rpa:TX73_008060 K01740 O-acetylhomoserine aminocarboxypropyltransferase
+  rpa:TX73_008185 K06001 TrpB-like pyridoxal phosphate-dependent enzyme
+  rpa:TX73_008270 K09709 MaoC family dehydratase N-terminal domain-containing protein
+  rpa:TX73_008275 K18289 CaiB/BaiF CoA-transferase family protein
+  rpa:TX73_008280 K00249 acyl-CoA/acyl-ACP dehydrogenase
+  rpa:TX73_008290 K00253 isovaleryl-CoA dehydrogenase
+  rpa:TX73_008310 K01652 acetolactate synthase large subunit
+  rpa:TX73_008565 K02495 hemN; oxygen-independent coproporphyrinogen III oxidase
+  rpa:TX73_008575 K04034 bchE; magnesium-protoporphyrin IX monomethyl ester anaerobic oxidative cyclase
+  rpa:TX73_008650 K00059 SDR family oxidoreductase
+  rpa:TX73_008765 K00632 acetyl-CoA C-acetyltransferase
+  rpa:TX73_008875 K02618 paaZ; phenylacetic acid degradation bifunctional protein PaaZ
+  rpa:TX73_008920 K01426 amidase family protein
+  rpa:TX73_008975 K06016 Zn-dependent hydrolase
+  rpa:TX73_009040 K15866 enoyl-CoA hydratase/isomerase
+  rpa:TX73_009160 K00481 pobA; 4-hydroxybenzoate 3-monooxygenase
+  rpa:TX73_009195 K01075 thioesterase family protein
+  rpa:TX73_009245 K11529 glycerate kinase
+  rpa:TX73_009315 K01692 enoyl-CoA hydratase
+  rpa:TX73_009435 K01847 scpA; methylmalonyl-CoA mutase
+  rpa:TX73_009450 K00950 folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+  rpa:TX73_009455 K01633 folB; dihydroneopterin aldolase
+  rpa:TX73_009460 K00796 folP; dihydropteroate synthase
+  rpa:TX73_009605 K05366 PBP1A family penicillin-binding protein
+  rpa:TX73_010080 K00121 S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase
+  rpa:TX73_010205 K01091 HAD-IA family hydrolase
+  rpa:TX73_010220 K00383 gor; glutathione-disulfide reductase
+  rpa:TX73_010225 K01626 3-deoxy-7-phosphoheptulonate synthase class II
+  rpa:TX73_010235 K01916 NAD+ synthase
+  rpa:TX73_010310 K01649 cimA; citramalate synthase
+  rpa:TX73_010395 K02517 lipid A biosynthesis lauroyl acyltransferase
+  rpa:TX73_010405 K09458 beta-ketoacyl-ACP synthase
+  rpa:TX73_010410 K09458 beta-ketoacyl-ACP synthase
+  rpa:TX73_010465 K01652 acetolactate synthase 3 large subunit
+  rpa:TX73_010470 K01653 ilvN; acetolactate synthase small subunit
+  rpa:TX73_010625 K00376 nosZ; TAT-dependent nitrous-oxide reductase
+  rpa:TX73_010730 K02303 cobA; uroporphyrinogen-III C-methyltransferase
+  rpa:TX73_010740 K05936 cobM; precorrin-4 C(11)-methyltransferase
+  rpa:TX73_010760 K05934 cobJ; precorrin-3B C(17)-methyltransferase
+  rpa:TX73_010770 K06042 precorrin-8X methylmutase
+  rpa:TX73_011050 K01897 AMP-binding protein
+  rpa:TX73_011105 K00128 aldehyde dehydrogenase family protein
+  rpa:TX73_011195 K01767 cupin domain-containing protein
+  rpa:TX73_011255 K00549 methionine synthase
+  rpa:TX73_011355 K00088 guaB; IMP dehydrogenase
+  rpa:TX73_011905 K01895 AMP-binding protein
+  rpa:TX73_011915 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_011920 K00248 acyl-CoA dehydrogenase family protein
+  rpa:TX73_011980 K01040 CoA synthetase
+  rpa:TX73_012025 K01438 ArgE/DapE family deacylase
+  rpa:TX73_012055 K00681 ggt; gamma-glutamyltransferase
+  rpa:TX73_012150 K01740 PLP-dependent transferase
+  rpa:TX73_012165 K02588 AAA family ATPase
+  rpa:TX73_012185 K01758 PLP-dependent aspartate aminotransferase family protein
+  rpa:TX73_012595 K01961 accC; acetyl-CoA carboxylase biotin carboxylase subunit
+  rpa:TX73_012600 K02160 accB; acetyl-CoA carboxylase biotin carboxyl carrier protein
+  rpa:TX73_012735 K04487 cysteine desulfurase family protein
+  rpa:TX73_012755 K11717 cysteine desulfurase
+  rpa:TX73_012875 K00145 argC; N-acetyl-gamma-glutamyl-phosphate reductase
+  rpa:TX73_012925 K03821 phaC; class I poly(R)-hydroxyalkanoic acid synthase
+  rpa:TX73_012940 K00003 homoserine dehydrogenase
+  rpa:TX73_012945 K11532 glpX; class II fructose-bisphosphatase
+  rpa:TX73_012955 K01560 haloacid dehalogenase type II
+  rpa:TX73_013030 K01759 VOC family protein
+  rpa:TX73_013125 K01640 hydroxymethylglutaryl-CoA lyase
+  rpa:TX73_013280 K01738 cysteine synthase A
+  rpa:TX73_013435 K00824 D-amino-acid transaminase
+  rpa:TX73_013785 K00820 glmS; glutamine--fructose-6-phosphate transaminase (isomerizing)
+  rpa:TX73_013845 K03185 UbiH/UbiF family hydroxylase
+  rpa:TX73_013955 K01139 bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+  rpa:TX73_013995 K19267 SDR family oxidoreductase
+  rpa:TX73_014055 K01698 hemB; porphobilinogen synthase
+  rpa:TX73_014125 K11752 ribD; bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
+  rpa:TX73_014130 K00793 riboflavin synthase
+  rpa:TX73_014200 K00648 ketoacyl-ACP synthase III
+  rpa:TX73_014315 K01740 O-acetylhomoserine aminocarboxypropyltransferase
+  rpa:TX73_014385 K01874 metG; methionine--tRNA ligase
+  rpa:TX73_014395 K06167 MBL fold metallo-hydrolase
+  rpa:TX73_014525 K01721 nthA; nitrile hydratase subunit alpha
+  rpa:TX73_014555 K04765 mazG; nucleoside triphosphate pyrophosphohydrolase
+  rpa:TX73_014770 K01207 nagZ; beta-N-acetylhexosaminidase
+  rpa:TX73_014785 K01129 deoxyguanosinetriphosphate triphosphohydrolase
+  rpa:TX73_014835 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_014840 K00627 pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase
+  rpa:TX73_014850 K00162 pyruvate dehydrogenase complex E1 component subunit beta
+  rpa:TX73_014855 K00161 pdhA; pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha
+  rpa:TX73_015040 K03750 molybdopterin molybdotransferase MoeA
+  rpa:TX73_015055 K01886 glutamine--tRNA ligase/YqeY domain fusion protein
+  rpa:TX73_015065 K01647 gltA; citrate synthase
+  rpa:TX73_015070 K01487 nucleoside deaminase
+  rpa:TX73_015080 K09949 lpxI; UDP-2,3-diacylglucosamine diphosphatase LpxI
+  rpa:TX73_015205 K05606 mce; methylmalonyl-CoA epimerase
+  rpa:TX73_015215 K03524 biotin--[acetyl-CoA-carboxylase] ligase
+  rpa:TX73_015260 K00335 nuoF; NADH-quinone oxidoreductase subunit NuoF
+  rpa:TX73_015270 K00334 nuoE; NADH-quinone oxidoreductase subunit NuoE
+  rpa:TX73_015390 K01915 glnA; type I glutamate--ammonia ligase
+  rpa:TX73_015440 K00525 vitamin B12-dependent ribonucleotide reductase
+  rpa:TX73_015475 K01826 5-carboxymethyl-2-hydroxymuconate Delta-isomerase
+  rpa:TX73_015700 K01438 ArgE/DapE family deacylase
+  rpa:TX73_015865 K13953 alcohol dehydrogenase
+  rpa:TX73_015890 K09458 fabF; beta-ketoacyl-ACP synthase II
+  rpa:TX73_015900 K00059 fabG; 3-oxoacyl-[acyl-carrier-protein] reductase
+  rpa:TX73_015905 K00645 fabD; ACP S-malonyltransferase
+  rpa:TX73_015990 K00764 purF; amidophosphoribosyltransferase
+  rpa:TX73_016115 K04103 ipdC; indolepyruvate/phenylpyruvate decarboxylase
+  rpa:TX73_016125 K01465 dihydroorotase
+  rpa:TX73_016330 K00799 glutathione S-transferase family protein
+  rpa:TX73_016420 K01965 acetyl/propionyl/methylcrotonyl-CoA carboxylase subunit alpha
+  rpa:TX73_016500 K01714 dihydrodipicolinate synthase family protein
+  rpa:TX73_016565 K01966 acyl-CoA carboxylase subunit beta
+  rpa:TX73_016700 K00939 adenylate kinase
+  rpa:TX73_016990 K02226 histidine phosphatase family protein
+  rpa:TX73_017005 K00249 acyl-CoA dehydrogenase family protein
+  rpa:TX73_017120 K01214 glgX; glycogen debranching protein GlgX
+  rpa:TX73_017170 K15778 phosphomannomutase/phosphoglucomutase
+  rpa:TX73_017175 K16011 mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase
+  rpa:TX73_017735 K00640 cysE; serine O-acetyltransferase
+  rpa:TX73_017805 K01426 amidase
+  rpa:TX73_017830 K01895 AMP-binding protein
+  rpa:TX73_017835 K00020 mmsB; 3-hydroxyisobutyrate dehydrogenase
+  rpa:TX73_017860 K00140 CoA-acylating methylmalonate-semialdehyde dehydrogenase
+  rpa:TX73_017940 K00626 acetyl-CoA acetyltransferase
+  rpa:TX73_017970 K22186 dihydroxy-acid dehydratase family protein
+  rpa:TX73_017975 K18335 SDR family oxidoreductase
+  rpa:TX73_017980 K21883 SDR family NAD(P)-dependent oxidoreductase
+  rpa:TX73_018270 K01921 D-alanine--D-alanine ligase
+  rpa:TX73_018315 K01929 UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase
+  rpa:TX73_018535 K00788 thiamine phosphate synthase
+  rpa:TX73_018595 K20940 flavin-dependent oxidoreductase
+  rpa:TX73_018725 K01011 sseA; 3-mercaptopyruvate sulfurtransferase
+  rpa:TX73_018780 K01053 SMP-30/gluconolactonase/LRE family protein
+  rpa:TX73_018800 K00432 glutathione peroxidase
+  rpa:TX73_018805 K01426 amidase family protein
+  rpa:TX73_018840 K00033 gnd; decarboxylating 6-phosphogluconate dehydrogenase
+  rpa:TX73_018845 K00036 zwf; glucose-6-phosphate dehydrogenase
+  rpa:TX73_018850 K01057 pgl; 6-phosphogluconolactonase
+  rpa:TX73_018870 K00705 malQ; 4-alpha-glucanotransferase
+  rpa:TX73_018880 K05343 treS; maltose alpha-D-glucosyltransferase
+  rpa:TX73_018895 K01236 treZ; malto-oligosyltrehalose trehalohydrolase
+  rpa:TX73_018935 K03752 mobA; molybdenum cofactor guanylyltransferase MobA
+  rpa:TX73_019095 K01255 leucyl aminopeptidase family protein
+  rpa:TX73_019135 K08738 cytochrome c family protein
+  rpa:TX73_019175 K00297 metF; methylenetetrahydrofolate reductase [NAD(P)H]
+  rpa:TX73_019180 K00548 metH; methionine synthase
+  rpa:TX73_019235 K28556 pimD; pimeloyl-CoA dehydrogenase small subunit
+  rpa:TX73_019240 K04118 pimC; pimeloyl-CoA dehydrogenase large subunit
+  rpa:TX73_019245 K00632 acetyl-CoA C-acyltransferase
+  rpa:TX73_019255 K07516 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_019330 K00819 hpnO; aminobacteriohopanetriol synthase HpnO
+  rpa:TX73_019415 K03735 ethanolamine ammonia-lyase subunit EutB
+  rpa:TX73_019445 K02510 aldolase/citrate lyase family protein
+  rpa:TX73_019450 K13574 malate/lactate/ureidoglycolate dehydrogenase
+  rpa:TX73_019465 K01826 5-carboxymethyl-2-hydroxymuconate Delta-isomerase
+  rpa:TX73_019470 K00151 hpaE; 5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase
+  rpa:TX73_019485 K01652 thiamine pyrophosphate-binding protein
+  rpa:TX73_019490 K02613 paaK; phenylacetate-CoA oxygenase/reductase subunit PaaK
+  rpa:TX73_019500 K02611 paaC; phenylacetate-CoA oxygenase subunit PaaC
+  rpa:TX73_019755 K01783 rpe; ribulose-phosphate 3-epimerase
+  rpa:TX73_019760 K01756 purB; adenylosuccinate lyase
+  rpa:TX73_019775 K23264 purS; phosphoribosylformylglycinamidine synthase subunit PurS
+  rpa:TX73_019855 K00031 NADP-dependent isocitrate dehydrogenase
+  rpa:TX73_019925 K00605 gcvT; glycine cleavage system aminomethyltransferase GcvT
+  rpa:TX73_019930 K02437 gcvH; glycine cleavage system protein GcvH
+  rpa:TX73_020085 K01676 fumarate hydratase
+  rpa:TX73_020315 K00966 nucleotidyltransferase family protein
+  rpa:TX73_020475 K15856 GDP-mannose 4,6-dehydratase
+  rpa:TX73_020615 K13017 DegT/DnrJ/EryC1/StrS family aminotransferase
+  rpa:TX73_020650 K03274 rfaD; ADP-glyceromanno-heptose 6-epimerase
+  rpa:TX73_020660 K03271 D-sedoheptulose 7-phosphate isomerase
+  rpa:TX73_020685 K16165 fumarylacetoacetate hydrolase family protein
+  rpa:TX73_020810 K00789 metK; methionine adenosyltransferase
+  rpa:TX73_020820 K00012 UDP-glucose/GDP-mannose dehydrogenase family protein
+  rpa:TX73_020895 K01719 uroporphyrinogen-III synthase
+  rpa:TX73_020940 K01897 long-chain fatty acid--CoA ligase
+  rpa:TX73_020975 K00978 rfbF; glucose-1-phosphate cytidylyltransferase
+  rpa:TX73_020980 K01709 rfbG; CDP-glucose 4,6-dehydratase
+  rpa:TX73_020995 K01735 3-dehydroquinate synthase
+  rpa:TX73_021005 K01652 thiamine pyrophosphate-binding protein
+  rpa:TX73_021090 K01955 carB; carbamoyl-phosphate synthase large subunit
+  rpa:TX73_021500 K00948 ribose-phosphate pyrophosphokinase
+  rpa:TX73_021540 K01029 3-oxoacid CoA-transferase subunit B
+  rpa:TX73_021545 K01028 CoA transferase subunit A
+  rpa:TX73_021640 K01588 purE; 5-(carboxyamino)imidazole ribonucleotide mutase
+  rpa:TX73_021645 K01589 5-(carboxyamino)imidazole ribonucleotide synthase
+  rpa:TX73_021670 K00325 NAD(P)(+) transhydrogenase (Re/Si-specific) subunit beta
+  rpa:TX73_021680 K00324 Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha
+  rpa:TX73_021735 K00873 pyk; pyruvate kinase
+  rpa:TX73_021805 K00019 3-hydroxybutyrate dehydrogenase
+  rpa:TX73_021840 K00381 nitrite/sulfite reductase
+  rpa:TX73_022025 K01740 aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme
+  rpa:TX73_022065 K00336 nuoG; NADH-quinone oxidoreductase subunit NuoG
+  rpa:TX73_022070 K00335 NADH-quinone oxidoreductase subunit F
+  rpa:TX73_022075 K00334 nuoE; NADH-quinone oxidoreductase subunit NuoE
+  rpa:TX73_022105 K01897 long-chain fatty acid--CoA ligase
+  rpa:TX73_022110 K24138 peroxiredoxin
+  rpa:TX73_022205 K09019 malonic semialdehyde reductase
+  rpa:TX73_022325 K00058 serA; phosphoglycerate dehydrogenase
+  rpa:TX73_022330 K00831 phosphoserine transaminase
+  rpa:TX73_022385 K00101 alpha-hydroxy acid oxidase
+  rpa:TX73_022445 K00799 glutathione S-transferase family protein
+  rpa:TX73_022530 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_022600 K05810 pgeF; peptidoglycan editing factor PgeF
+  rpa:TX73_022630 K00286 proC; pyrroline-5-carboxylate reductase
+  rpa:TX73_022650 K00826 branched-chain amino acid aminotransferase
+  rpa:TX73_022775 K01637 isocitrate lyase
+  rpa:TX73_022905 K00681 ggt; gamma-glutamyltransferase
+  rpa:TX73_023040 K00220 prephenate/arogenate dehydrogenase family protein
+  rpa:TX73_023060 K20034 fatty-acid--CoA ligase
+  rpa:TX73_023110 K01593 pyridoxal-dependent decarboxylase
+  rpa:TX73_023115 K09769 TIGR00282 family metallophosphoesterase
+  rpa:TX73_023160 K17229 FCSD flavin-binding domain-containing protein
+  rpa:TX73_023175 K22622 cytochrome c
+  rpa:TX73_023180 K17225 soxC; sulfite dehydrogenase
+  rpa:TX73_023185 K17224 soxB; thiosulfohydrolase SoxB
+  rpa:TX73_023190 K17227 soxZ; thiosulfate oxidation carrier complex protein SoxZ
+  rpa:TX73_023195 K17226 soxY; thiosulfate oxidation carrier protein SoxY
+  rpa:TX73_023200 K17222 soxA; sulfur oxidation c-type cytochrome SoxA
+  rpa:TX73_023205 K17223 soxX; sulfur oxidation c-type cytochrome SoxX
+  rpa:TX73_023350 K13503 anthranilate synthase component I
+  rpa:TX73_023385 K01908 propionyl-CoA synthetase
+  rpa:TX73_023700 K00077 2-dehydropantoate 2-reductase
+  rpa:TX73_023730 K00208 fabI; enoyl-ACP reductase FabI
+  rpa:TX73_023810 K01179 cellulase family glycosylhydrolase
+  rpa:TX73_023875 K00059 SDR family NAD(P)-dependent oxidoreductase
+  rpa:TX73_024105 K01624 fba; fructose-bisphosphate aldolase class II
+  rpa:TX73_024115 K28462 phosphoribulokinase
+  rpa:TX73_024155 K01040 CoA synthetase
+  rpa:TX73_024180 K00059 3-oxoacyl-ACP reductase FabG
+  rpa:TX73_024185 K19745 oxidoreductase
+  rpa:TX73_024230 K01087 otsB; trehalose-phosphatase
+  rpa:TX73_024270 K01796 CaiB/BaiF CoA-transferase family protein
+  rpa:TX73_024400 K16514 4-oxalomesaconate tautomerase
+  rpa:TX73_024405 K10220 amidohydrolase family protein
+  rpa:TX73_024420 K10221 amidohydrolase family protein
+  rpa:TX73_024425 K04100 ligA; protocatechuate 4,5-dioxygenase subunit alpha
+  rpa:TX73_024430 K04101 class III extradiol dioxygenase subunit beta
+  rpa:TX73_024435 K10219 Gfo/Idh/MocA family oxidoreductase
+  rpa:TX73_024460 K00459 nitronate monooxygenase family protein
+  rpa:TX73_024530 K00266 sulfide/dihydroorotate dehydrogenase-like FAD/NAD-binding protein
+  rpa:TX73_024575 K01476 rocF; arginase
+  rpa:TX73_024595 K00655 1-acyl-sn-glycerol-3-phosphate acyltransferase
+  rpa:TX73_024630 K01607 carboxymuconolactone decarboxylase family protein
+  rpa:TX73_024670 K00074 3-hydroxybutyryl-CoA dehydrogenase
+  rpa:TX73_024685 K00798 cob(I)yrinic acid a,c-diamide adenosyltransferase
+  rpa:TX73_024775 K10764 O-succinylhomoserine sulfhydrylase
+  rpa:TX73_025050 K08963 mtnA; S-methyl-5-thioribose-1-phosphate isomerase
+  rpa:TX73_025055 K00772 S-methyl-5'-thioadenosine phosphorylase
+  rpa:TX73_025065 K01897 AMP-binding protein
+  rpa:TX73_025110 K01061 dienelactone hydrolase family protein
+
+rpa01110 Biosynthesis of secondary metabolites (180)
+
+  rpa:TX73_000140 K01626 3-deoxy-7-phosphoheptulonate synthase
+  rpa:TX73_000145 K00602 purH; bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+  rpa:TX73_000610 K01790 rfbC; dTDP-4-dehydrorhamnose 3,5-epimerase
+  rpa:TX73_000615 K00067 rfbD; dTDP-4-dehydrorhamnose reductase
+  rpa:TX73_000960 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_000975 K00658 odhB; 2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase
+  rpa:TX73_000980 K00164 2-oxoglutarate dehydrogenase E1 component
+  rpa:TX73_000985 K01902 sucD; succinate--CoA ligase subunit alpha
+  rpa:TX73_001045 K27802 acnA; aconitate hydratase AcnA
+  rpa:TX73_001095 K01895 acs; acetate--CoA ligase
+  rpa:TX73_001120 K00240 succinate dehydrogenase iron-sulfur subunit
+  rpa:TX73_001125 K00239 sdhA; succinate dehydrogenase flavoprotein subunit
+  rpa:TX73_001130 K00242 sdhD; succinate dehydrogenase, hydrophobic membrane anchor protein
+  rpa:TX73_001190 K00133 aspartate-semialdehyde dehydrogenase
+  rpa:TX73_001330 K01719 uroporphyrinogen-III synthase
+  rpa:TX73_001860 K07226 pyridoxamine 5'-phosphate oxidase family protein
+  rpa:TX73_001970 K16370 1-phosphofructokinase family hexose kinase
+  rpa:TX73_002195 K00015 D-glycerate dehydrogenase
+  rpa:TX73_002220 K00208 fabI; enoyl-ACP reductase FabI
+  rpa:TX73_002490 K00249 acyl-CoA/acyl-ACP dehydrogenase
+  rpa:TX73_002495 K00249 acyl-CoA dehydrogenase family protein
+  rpa:TX73_002715 K00795 polyprenyl synthetase family protein
+  rpa:TX73_002750 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_002780 K18118 acetyl-CoA hydrolase/transferase family protein
+  rpa:TX73_002885 K01738 cysK; cysteine synthase A
+  rpa:TX73_002890 K01923 phosphoribosylaminoimidazolesuccinocarboxamide synthase
+  rpa:TX73_003125 K00928 aspartate kinase
+  rpa:TX73_003890 K00955 cysC; adenylyl-sulfate kinase
+  rpa:TX73_004215 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004220 K01782 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_004400 K00643 hemA; 5-aminolevulinate synthase
+  rpa:TX73_004460 K00808 homospermidine synthase
+  rpa:TX73_004485 K01581 type III PLP-dependent enzyme
+  rpa:TX73_004570 K00963 galU; UTP--glucose-1-phosphate uridylyltransferase GalU
+  rpa:TX73_004590 K00265 gltB; glutamate synthase large subunit
+  rpa:TX73_004595 K00266 glutamate synthase subunit beta
+  rpa:TX73_004805 K24843 SCP2 sterol-binding domain-containing protein
+  rpa:TX73_004810 K24844 U32 family peptidase
+  rpa:TX73_004815 K24845 U32 family peptidase
+  rpa:TX73_004830 K01092 inositol monophosphatase family protein
+  rpa:TX73_004845 K01623 fructose-bisphosphate aldolase class I
+  rpa:TX73_004865 K00134 gap; type I glyceraldehyde-3-phosphate dehydrogenase
+  rpa:TX73_004870 K00615 tkt; transketolase
+  rpa:TX73_005065 K01915 glutamine synthetase family protein
+  rpa:TX73_005345 K02523 polyprenyl synthetase family protein
+  rpa:TX73_005625 K00252 acyl-CoA dehydrogenase
+  rpa:TX73_005805 K00104 FAD-linked oxidase C-terminal domain-containing protein
+  rpa:TX73_005810 K11472 FAD-binding protein
+  rpa:TX73_005905 K02502 ATP phosphoribosyltransferase regulatory subunit
+  rpa:TX73_006160 K00208 fabI; enoyl-ACP reductase FabI
+  rpa:TX73_006190 K13954 yiaY; L-threonine dehydrogenase
+  rpa:TX73_006295 K00174 2-oxoacid:acceptor oxidoreductase subunit alpha
+  rpa:TX73_006305 K00177 2-oxoacid:acceptor oxidoreductase family protein
+  rpa:TX73_006345 K00249 acyl-CoA dehydrogenase family protein
+  rpa:TX73_006555 K01956 carA; glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit
+  rpa:TX73_006705 K00570 class I SAM-dependent methyltransferase
+  rpa:TX73_007630 K01835 pgm; phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+  rpa:TX73_007740 K03405 bchI; magnesium chelatase ATPase subunit I
+  rpa:TX73_007745 K03404 magnesium chelatase subunit D
+  rpa:TX73_007770 K10027 phytoene desaturase
+  rpa:TX73_007775 K02291 phytoene/squalene synthase family protein
+  rpa:TX73_007780 K00228 hemF; oxygen-dependent coproporphyrinogen oxidase
+  rpa:TX73_007805 K09845 crtI; phytoene desaturase family protein
+  rpa:TX73_007810 K13789 polyprenyl synthetase family protein
+  rpa:TX73_007820 K11337 bchC; chlorophyll synthesis pathway protein BchC
+  rpa:TX73_007825 K11333 chlorophyllide a reductase iron protein subunit X
+  rpa:TX73_007835 K11335 bchZ; chlorophyllide a reductase subunit Z
+  rpa:TX73_007880 K10960 geranylgeranyl diphosphate reductase
+  rpa:TX73_007910 K21480 biliverdin-producing heme oxygenase
+  rpa:TX73_007935 K03403 magnesium chelatase subunit H
+  rpa:TX73_007945 K03428 bchM; magnesium protoporphyrin IX methyltransferase
+  rpa:TX73_007985 K00643 hemA; 5-aminolevulinate synthase
+  rpa:TX73_008015 K01602 ribulose bisphosphate carboxylase small subunit
+  rpa:TX73_008185 K06001 TrpB-like pyridoxal phosphate-dependent enzyme
+  rpa:TX73_008280 K00249 acyl-CoA/acyl-ACP dehydrogenase
+  rpa:TX73_008310 K01652 acetolactate synthase large subunit
+  rpa:TX73_008565 K02495 hemN; oxygen-independent coproporphyrinogen III oxidase
+  rpa:TX73_008575 K04034 bchE; magnesium-protoporphyrin IX monomethyl ester anaerobic oxidative cyclase
+  rpa:TX73_008650 K00059 SDR family oxidoreductase
+  rpa:TX73_008765 K00632 acetyl-CoA C-acetyltransferase
+  rpa:TX73_009195 K01075 thioesterase family protein
+  rpa:TX73_009245 K11529 glycerate kinase
+  rpa:TX73_009315 K01692 enoyl-CoA hydratase
+  rpa:TX73_010080 K00121 S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase
+  rpa:TX73_010205 K01091 HAD-IA family hydrolase
+  rpa:TX73_010225 K01626 3-deoxy-7-phosphoheptulonate synthase class II
+  rpa:TX73_010310 K01649 cimA; citramalate synthase
+  rpa:TX73_010465 K01652 acetolactate synthase 3 large subunit
+  rpa:TX73_010470 K01653 ilvN; acetolactate synthase small subunit
+  rpa:TX73_010730 K02303 cobA; uroporphyrinogen-III C-methyltransferase
+  rpa:TX73_011105 K00128 aldehyde dehydrogenase family protein
+  rpa:TX73_011255 K00549 methionine synthase
+  rpa:TX73_011355 K00088 guaB; IMP dehydrogenase
+  rpa:TX73_011905 K01895 AMP-binding protein
+  rpa:TX73_011915 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_011920 K00248 acyl-CoA dehydrogenase family protein
+  rpa:TX73_012025 K01438 ArgE/DapE family deacylase
+  rpa:TX73_012185 K01758 PLP-dependent aspartate aminotransferase family protein
+  rpa:TX73_012595 K01961 accC; acetyl-CoA carboxylase biotin carboxylase subunit
+  rpa:TX73_012600 K02160 accB; acetyl-CoA carboxylase biotin carboxyl carrier protein
+  rpa:TX73_012875 K00145 argC; N-acetyl-gamma-glutamyl-phosphate reductase
+  rpa:TX73_012940 K00003 homoserine dehydrogenase
+  rpa:TX73_012945 K11532 glpX; class II fructose-bisphosphatase
+  rpa:TX73_013280 K01738 cysteine synthase A
+  rpa:TX73_013845 K03185 UbiH/UbiF family hydroxylase
+  rpa:TX73_013995 K19267 SDR family oxidoreductase
+  rpa:TX73_014055 K01698 hemB; porphobilinogen synthase
+  rpa:TX73_014125 K11752 ribD; bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
+  rpa:TX73_014130 K00793 riboflavin synthase
+  rpa:TX73_014835 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_014840 K00627 pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase
+  rpa:TX73_014850 K00162 pyruvate dehydrogenase complex E1 component subunit beta
+  rpa:TX73_014855 K00161 pdhA; pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha
+  rpa:TX73_015065 K01647 gltA; citrate synthase
+  rpa:TX73_015390 K01915 glnA; type I glutamate--ammonia ligase
+  rpa:TX73_015700 K01438 ArgE/DapE family deacylase
+  rpa:TX73_015865 K13953 alcohol dehydrogenase
+  rpa:TX73_015900 K00059 fabG; 3-oxoacyl-[acyl-carrier-protein] reductase
+  rpa:TX73_015905 K00645 fabD; ACP S-malonyltransferase
+  rpa:TX73_015990 K00764 purF; amidophosphoribosyltransferase
+  rpa:TX73_016420 K01965 acetyl/propionyl/methylcrotonyl-CoA carboxylase subunit alpha
+  rpa:TX73_016500 K01714 dihydrodipicolinate synthase family protein
+  rpa:TX73_016565 K01966 acyl-CoA carboxylase subunit beta
+  rpa:TX73_016700 K00939 adenylate kinase
+  rpa:TX73_017005 K00249 acyl-CoA dehydrogenase family protein
+  rpa:TX73_017120 K01214 glgX; glycogen debranching protein GlgX
+  rpa:TX73_017170 K15778 phosphomannomutase/phosphoglucomutase
+  rpa:TX73_017175 K16011 mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase
+  rpa:TX73_017735 K00640 cysE; serine O-acetyltransferase
+  rpa:TX73_017830 K01895 AMP-binding protein
+  rpa:TX73_017940 K00626 acetyl-CoA acetyltransferase
+  rpa:TX73_018595 K20940 flavin-dependent oxidoreductase
+  rpa:TX73_018780 K01053 SMP-30/gluconolactonase/LRE family protein
+  rpa:TX73_018840 K00033 gnd; decarboxylating 6-phosphogluconate dehydrogenase
+  rpa:TX73_018845 K00036 zwf; glucose-6-phosphate dehydrogenase
+  rpa:TX73_018850 K01057 pgl; 6-phosphogluconolactonase
+  rpa:TX73_018870 K00705 malQ; 4-alpha-glucanotransferase
+  rpa:TX73_018880 K05343 treS; maltose alpha-D-glucosyltransferase
+  rpa:TX73_018895 K01236 treZ; malto-oligosyltrehalose trehalohydrolase
+  rpa:TX73_019180 K00548 metH; methionine synthase
+  rpa:TX73_019245 K00632 acetyl-CoA C-acyltransferase
+  rpa:TX73_019330 K00819 hpnO; aminobacteriohopanetriol synthase HpnO
+  rpa:TX73_019370 K06045 shc; squalene--hopene cyclase
+  rpa:TX73_019450 K13574 malate/lactate/ureidoglycolate dehydrogenase
+  rpa:TX73_019485 K01652 thiamine pyrophosphate-binding protein
+  rpa:TX73_019755 K01783 rpe; ribulose-phosphate 3-epimerase
+  rpa:TX73_019760 K01756 purB; adenylosuccinate lyase
+  rpa:TX73_019775 K23264 purS; phosphoribosylformylglycinamidine synthase subunit PurS
+  rpa:TX73_019855 K00031 NADP-dependent isocitrate dehydrogenase
+  rpa:TX73_019925 K00605 gcvT; glycine cleavage system aminomethyltransferase GcvT
+  rpa:TX73_019930 K02437 gcvH; glycine cleavage system protein GcvH
+  rpa:TX73_020085 K01676 fumarate hydratase
+  rpa:TX73_020315 K00966 nucleotidyltransferase family protein
+  rpa:TX73_020810 K00789 metK; methionine adenosyltransferase
+  rpa:TX73_020895 K01719 uroporphyrinogen-III synthase
+  rpa:TX73_020995 K01735 3-dehydroquinate synthase
+  rpa:TX73_021005 K01652 thiamine pyrophosphate-binding protein
+  rpa:TX73_021090 K01955 carB; carbamoyl-phosphate synthase large subunit
+  rpa:TX73_021500 K00948 ribose-phosphate pyrophosphokinase
+  rpa:TX73_021640 K01588 purE; 5-(carboxyamino)imidazole ribonucleotide mutase
+  rpa:TX73_021645 K01589 5-(carboxyamino)imidazole ribonucleotide synthase
+  rpa:TX73_021735 K00873 pyk; pyruvate kinase
+  rpa:TX73_022325 K00058 serA; phosphoglycerate dehydrogenase
+  rpa:TX73_022330 K00831 phosphoserine transaminase
+  rpa:TX73_022530 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_022630 K00286 proC; pyrroline-5-carboxylate reductase
+  rpa:TX73_022650 K00826 branched-chain amino acid aminotransferase
+  rpa:TX73_022775 K01637 isocitrate lyase
+  rpa:TX73_023040 K00220 prephenate/arogenate dehydrogenase family protein
+  rpa:TX73_023110 K01593 pyridoxal-dependent decarboxylase
+  rpa:TX73_023350 K13503 anthranilate synthase component I
+  rpa:TX73_023700 K00077 2-dehydropantoate 2-reductase
+  rpa:TX73_023730 K00208 fabI; enoyl-ACP reductase FabI
+  rpa:TX73_023875 K00059 SDR family NAD(P)-dependent oxidoreductase
+  rpa:TX73_024105 K01624 fba; fructose-bisphosphate aldolase class II
+  rpa:TX73_024180 K00059 3-oxoacyl-ACP reductase FabG
+  rpa:TX73_024230 K01087 otsB; trehalose-phosphatase
+  rpa:TX73_024530 K00266 sulfide/dihydroorotate dehydrogenase-like FAD/NAD-binding protein
+  rpa:TX73_024575 K01476 rocF; arginase
+  rpa:TX73_024595 K00655 1-acyl-sn-glycerol-3-phosphate acyltransferase
+
+rpa01120 Microbial metabolism in diverse environments (158)
+
+  rpa:TX73_000960 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_000975 K00658 odhB; 2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase
+  rpa:TX73_000980 K00164 2-oxoglutarate dehydrogenase E1 component
+  rpa:TX73_000985 K01902 sucD; succinate--CoA ligase subunit alpha
+  rpa:TX73_001045 K27802 acnA; aconitate hydratase AcnA
+  rpa:TX73_001095 K01895 acs; acetate--CoA ligase
+  rpa:TX73_001120 K00240 succinate dehydrogenase iron-sulfur subunit
+  rpa:TX73_001125 K00239 sdhA; succinate dehydrogenase flavoprotein subunit
+  rpa:TX73_001130 K00242 sdhD; succinate dehydrogenase, hydrophobic membrane anchor protein
+  rpa:TX73_001190 K00133 aspartate-semialdehyde dehydrogenase
+  rpa:TX73_001330 K01719 uroporphyrinogen-III synthase
+  rpa:TX73_001970 K16370 1-phosphofructokinase family hexose kinase
+  rpa:TX73_002195 K00015 D-glycerate dehydrogenase
+  rpa:TX73_002390 K00135 NAD-dependent succinate-semialdehyde dehydrogenase
+  rpa:TX73_002510 K15866 enoyl-CoA hydratase
+  rpa:TX73_002660 K07823 pcaF; 3-oxoadipyl-CoA thiolase
+  rpa:TX73_002750 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_002755 K00023 beta-ketoacyl-ACP reductase
+  rpa:TX73_002780 K18118 acetyl-CoA hydrolase/transferase family protein
+  rpa:TX73_002885 K01738 cysK; cysteine synthase A
+  rpa:TX73_003125 K00928 aspartate kinase
+  rpa:TX73_003385 K07536 badI; 2-ketocyclohexanecarboxyl-CoA hydrolase
+  rpa:TX73_003390 K07535 badH; 2-hydroxycyclohexanecarboxyl-CoA dehydrogenase
+  rpa:TX73_003410 K04113 bcrB; benzoyl-CoA reductase subunit B
+  rpa:TX73_003425 K04110 benzoate-CoA ligase family protein
+  rpa:TX73_003505 K15512 boxB; benzoyl-CoA 2,3-epoxidase subunit BoxB
+  rpa:TX73_003785 K00127 formate dehydrogenase subunit gamma
+  rpa:TX73_003795 K00123 fdhF; formate dehydrogenase subunit alpha
+  rpa:TX73_003880 K00390 phosphoadenylyl-sulfate reductase
+  rpa:TX73_003890 K00955 cysC; adenylyl-sulfate kinase
+  rpa:TX73_004210 K20035 acyl-CoA dehydrogenase C-terminal domain-containing protein
+  rpa:TX73_004215 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004220 K01782 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_004590 K00265 gltB; glutamate synthase large subunit
+  rpa:TX73_004595 K00266 glutamate synthase subunit beta
+  rpa:TX73_004845 K01623 fructose-bisphosphate aldolase class I
+  rpa:TX73_004865 K00134 gap; type I glyceraldehyde-3-phosphate dehydrogenase
+  rpa:TX73_004870 K00615 tkt; transketolase
+  rpa:TX73_004935 K20035 acyl-CoA dehydrogenase
+  rpa:TX73_005065 K01915 glutamine synthetase family protein
+  rpa:TX73_005180 K04101 class III extradiol dioxygenase family protein
+  rpa:TX73_005430 K19745 oxidoreductase
+  rpa:TX73_005625 K00252 acyl-CoA dehydrogenase
+  rpa:TX73_005805 K00104 FAD-linked oxidase C-terminal domain-containing protein
+  rpa:TX73_005810 K11472 FAD-binding protein
+  rpa:TX73_006040 K01821 tautomerase family protein
+  rpa:TX73_006130 K01061 dienelactone hydrolase family protein
+  rpa:TX73_006190 K13954 yiaY; L-threonine dehydrogenase
+  rpa:TX73_006295 K00174 2-oxoacid:acceptor oxidoreductase subunit alpha
+  rpa:TX73_006305 K00177 2-oxoacid:acceptor oxidoreductase family protein
+  rpa:TX73_007630 K01835 pgm; phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+  rpa:TX73_008015 K01602 ribulose bisphosphate carboxylase small subunit
+  rpa:TX73_008270 K09709 MaoC family dehydratase N-terminal domain-containing protein
+  rpa:TX73_008765 K00632 acetyl-CoA C-acetyltransferase
+  rpa:TX73_008875 K02618 paaZ; phenylacetic acid degradation bifunctional protein PaaZ
+  rpa:TX73_008920 K01426 amidase family protein
+  rpa:TX73_009040 K15866 enoyl-CoA hydratase/isomerase
+  rpa:TX73_009160 K00481 pobA; 4-hydroxybenzoate 3-monooxygenase
+  rpa:TX73_009195 K01075 thioesterase family protein
+  rpa:TX73_009245 K11529 glycerate kinase
+  rpa:TX73_009315 K01692 enoyl-CoA hydratase
+  rpa:TX73_009435 K01847 scpA; methylmalonyl-CoA mutase
+  rpa:TX73_010080 K00121 S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase
+  rpa:TX73_010625 K00376 nosZ; TAT-dependent nitrous-oxide reductase
+  rpa:TX73_010730 K02303 cobA; uroporphyrinogen-III C-methyltransferase
+  rpa:TX73_011105 K00128 aldehyde dehydrogenase family protein
+  rpa:TX73_011905 K01895 AMP-binding protein
+  rpa:TX73_011915 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_011920 K00248 acyl-CoA dehydrogenase family protein
+  rpa:TX73_011980 K01040 CoA synthetase
+  rpa:TX73_012165 K02588 AAA family ATPase
+  rpa:TX73_012595 K01961 accC; acetyl-CoA carboxylase biotin carboxylase subunit
+  rpa:TX73_012600 K02160 accB; acetyl-CoA carboxylase biotin carboxyl carrier protein
+  rpa:TX73_012940 K00003 homoserine dehydrogenase
+  rpa:TX73_012945 K11532 glpX; class II fructose-bisphosphatase
+  rpa:TX73_012955 K01560 haloacid dehalogenase type II
+  rpa:TX73_013125 K01640 hydroxymethylglutaryl-CoA lyase
+  rpa:TX73_013280 K01738 cysteine synthase A
+  rpa:TX73_013435 K00824 D-amino-acid transaminase
+  rpa:TX73_014055 K01698 hemB; porphobilinogen synthase
+  rpa:TX73_014525 K01721 nthA; nitrile hydratase subunit alpha
+  rpa:TX73_014835 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_014840 K00627 pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase
+  rpa:TX73_014850 K00162 pyruvate dehydrogenase complex E1 component subunit beta
+  rpa:TX73_014855 K00161 pdhA; pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha
+  rpa:TX73_015020 K20866 HAD family phosphatase
+  rpa:TX73_015065 K01647 gltA; citrate synthase
+  rpa:TX73_015205 K05606 mce; methylmalonyl-CoA epimerase
+  rpa:TX73_015390 K01915 glnA; type I glutamate--ammonia ligase
+  rpa:TX73_015475 K01826 5-carboxymethyl-2-hydroxymuconate Delta-isomerase
+  rpa:TX73_015865 K13953 alcohol dehydrogenase
+  rpa:TX73_016420 K01965 acetyl/propionyl/methylcrotonyl-CoA carboxylase subunit alpha
+  rpa:TX73_016500 K01714 dihydrodipicolinate synthase family protein
+  rpa:TX73_016565 K01966 acyl-CoA carboxylase subunit beta
+  rpa:TX73_017170 K15778 phosphomannomutase/phosphoglucomutase
+  rpa:TX73_017735 K00640 cysE; serine O-acetyltransferase
+  rpa:TX73_017805 K01426 amidase
+  rpa:TX73_017830 K01895 AMP-binding protein
+  rpa:TX73_017860 K00140 CoA-acylating methylmalonate-semialdehyde dehydrogenase
+  rpa:TX73_017940 K00626 acetyl-CoA acetyltransferase
+  rpa:TX73_017975 K18335 SDR family oxidoreductase
+  rpa:TX73_017980 K21883 SDR family NAD(P)-dependent oxidoreductase
+  rpa:TX73_018725 K01011 sseA; 3-mercaptopyruvate sulfurtransferase
+  rpa:TX73_018755 K03862 aromatic ring-hydroxylating dioxygenase subunit alpha
+  rpa:TX73_018780 K01053 SMP-30/gluconolactonase/LRE family protein
+  rpa:TX73_018805 K01426 amidase family protein
+  rpa:TX73_018840 K00033 gnd; decarboxylating 6-phosphogluconate dehydrogenase
+  rpa:TX73_018845 K00036 zwf; glucose-6-phosphate dehydrogenase
+  rpa:TX73_018850 K01057 pgl; 6-phosphogluconolactonase
+  rpa:TX73_019175 K00297 metF; methylenetetrahydrofolate reductase [NAD(P)H]
+  rpa:TX73_019235 K28556 pimD; pimeloyl-CoA dehydrogenase small subunit
+  rpa:TX73_019240 K04118 pimC; pimeloyl-CoA dehydrogenase large subunit
+  rpa:TX73_019245 K00632 acetyl-CoA C-acyltransferase
+  rpa:TX73_019255 K07516 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_019445 K02510 aldolase/citrate lyase family protein
+  rpa:TX73_019465 K01826 5-carboxymethyl-2-hydroxymuconate Delta-isomerase
+  rpa:TX73_019470 K00151 hpaE; 5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase
+  rpa:TX73_019490 K02613 paaK; phenylacetate-CoA oxygenase/reductase subunit PaaK
+  rpa:TX73_019500 K02611 paaC; phenylacetate-CoA oxygenase subunit PaaC
+  rpa:TX73_019755 K01783 rpe; ribulose-phosphate 3-epimerase
+  rpa:TX73_019855 K00031 NADP-dependent isocitrate dehydrogenase
+  rpa:TX73_020085 K01676 fumarate hydratase
+  rpa:TX73_020495 K04755 2Fe-2S iron-sulfur cluster-binding protein
+  rpa:TX73_020685 K16165 fumarylacetoacetate hydrolase family protein
+  rpa:TX73_020895 K01719 uroporphyrinogen-III synthase
+  rpa:TX73_021500 K00948 ribose-phosphate pyrophosphokinase
+  rpa:TX73_021735 K00873 pyk; pyruvate kinase
+  rpa:TX73_021840 K00381 nitrite/sulfite reductase
+  rpa:TX73_022325 K00058 serA; phosphoglycerate dehydrogenase
+  rpa:TX73_022330 K00831 phosphoserine transaminase
+  rpa:TX73_022530 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_022775 K01637 isocitrate lyase
+  rpa:TX73_022825 K10680 alkene reductase
+  rpa:TX73_023060 K20034 fatty-acid--CoA ligase
+  rpa:TX73_023160 K17229 FCSD flavin-binding domain-containing protein
+  rpa:TX73_023175 K22622 cytochrome c
+  rpa:TX73_023180 K17225 soxC; sulfite dehydrogenase
+  rpa:TX73_023185 K17224 soxB; thiosulfohydrolase SoxB
+  rpa:TX73_023190 K17227 soxZ; thiosulfate oxidation carrier complex protein SoxZ
+  rpa:TX73_023195 K17226 soxY; thiosulfate oxidation carrier protein SoxY
+  rpa:TX73_023200 K17222 soxA; sulfur oxidation c-type cytochrome SoxA
+  rpa:TX73_023205 K17223 soxX; sulfur oxidation c-type cytochrome SoxX
+  rpa:TX73_024105 K01624 fba; fructose-bisphosphate aldolase class II
+  rpa:TX73_024115 K28462 phosphoribulokinase
+  rpa:TX73_024155 K01040 CoA synthetase
+  rpa:TX73_024185 K19745 oxidoreductase
+  rpa:TX73_024270 K01796 CaiB/BaiF CoA-transferase family protein
+  rpa:TX73_024400 K16514 4-oxalomesaconate tautomerase
+  rpa:TX73_024405 K10220 amidohydrolase family protein
+  rpa:TX73_024420 K10221 amidohydrolase family protein
+  rpa:TX73_024425 K04100 ligA; protocatechuate 4,5-dioxygenase subunit alpha
+  rpa:TX73_024430 K04101 class III extradiol dioxygenase subunit beta
+  rpa:TX73_024435 K10219 Gfo/Idh/MocA family oxidoreductase
+  rpa:TX73_024530 K00266 sulfide/dihydroorotate dehydrogenase-like FAD/NAD-binding protein
+  rpa:TX73_024630 K01607 carboxymuconolactone decarboxylase family protein
+  rpa:TX73_024670 K00074 3-hydroxybutyryl-CoA dehydrogenase
+  rpa:TX73_024775 K10764 O-succinylhomoserine sulfhydrylase
+  rpa:TX73_025110 K01061 dienelactone hydrolase family protein
+
+rpa02020 Two-component system (78)
+
+  rpa:TX73_000085 K00406 ccoP; cytochrome-c oxidase, cbb3-type subunit III
+  rpa:TX73_000095 K00405 ccoO; cytochrome-c oxidase, cbb3-type subunit II
+  rpa:TX73_000260 K03092 rpoN; RNA polymerase factor sigma-54
+  rpa:TX73_000630 K11354 ATP-binding protein
+  rpa:TX73_000715 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_001205 K01644 CoA ester lyase
+  rpa:TX73_001210 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_001855 K14981 response regulator transcription factor
+  rpa:TX73_002240 K03406 PAS domain-containing methyl-accepting chemotaxis protein
+  rpa:TX73_002750 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_002960 K15012 ActR/PrrA/RegA family redox response regulator transcription factor
+  rpa:TX73_004215 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004410 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_004670 K13589 response regulator
+  rpa:TX73_005065 K01915 glutamine synthetase family protein
+  rpa:TX73_005225 K00411 petA; ubiquinol-cytochrome c reductase iron-sulfur subunit
+  rpa:TX73_006030 K03413 response regulator
+  rpa:TX73_006125 K00410 cytochrome c1
+  rpa:TX73_006510 K10943 sigma-54 dependent transcriptional regulator
+  rpa:TX73_007845 K08927 pufB; light-harvesting antenna LH1, beta subunit
+  rpa:TX73_007860 K08929 pufM; photosynthetic reaction center subunit M
+  rpa:TX73_007955 K13991 puhA; photosynthetic reaction center subunit H
+  rpa:TX73_008355 K13588 histidine phosphotransferase family protein
+  rpa:TX73_008360 K03407 hybrid sensor histidine kinase/response regulator
+  rpa:TX73_008370 K03413 response regulator
+  rpa:TX73_008385 K13584 response regulator transcription factor
+  rpa:TX73_008425 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_008610 K03776 methyl-accepting chemotaxis protein
+  rpa:TX73_008625 K00575 protein-glutamate O-methyltransferase CheR
+  rpa:TX73_009165 K11688 TRAP transporter substrate-binding protein
+  rpa:TX73_009370 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_009940 K04771 Do family serine endopeptidase
+  rpa:TX73_010180 K11688 TRAP transporter substrate-binding protein
+  rpa:TX73_010190 K11689 TRAP transporter small permease subunit
+  rpa:TX73_010550 K11688 TRAP transporter substrate-binding protein
+  rpa:TX73_011915 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_013140 K11688 dctP; TRAP transporter substrate-binding protein DctP
+  rpa:TX73_013305 K07799 efflux RND transporter periplasmic adaptor subunit
+  rpa:TX73_013415 K07708 nitrogen regulation protein NR(II)
+  rpa:TX73_013420 K07712 ntrC; nitrogen regulation protein NR(I)
+  rpa:TX73_013425 K13598 HAMP domain-containing histidine kinase
+  rpa:TX73_013430 K13599 sigma-54 dependent transcriptional regulator
+  rpa:TX73_014410 K11688 TRAP transporter substrate-binding protein
+  rpa:TX73_015385 K04751 P-II family nitrogen regulator
+  rpa:TX73_015390 K01915 glnA; type I glutamate--ammonia ligase
+  rpa:TX73_015550 K07646 sensor histidine kinase KdpD
+  rpa:TX73_015615 K11354 ATP-binding protein
+  rpa:TX73_016200 K11443 response regulator
+  rpa:TX73_016475 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_017940 K00626 acetyl-CoA acetyltransferase
+  rpa:TX73_018020 K07799 efflux RND transporter periplasmic adaptor subunit
+  rpa:TX73_018065 K04771 Do family serine endopeptidase
+  rpa:TX73_018095 K07795 tripartite tricarboxylate transporter substrate-binding protein
+  rpa:TX73_018380 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_019070 K02282 AAA family ATPase
+  rpa:TX73_019135 K08738 cytochrome c family protein
+  rpa:TX73_020295 K02406 DUF1522 domain-containing protein
+  rpa:TX73_020365 K02406 DUF1522 domain-containing protein
+  rpa:TX73_021140 K02279 cpaB; Flp pilus assembly protein CpaB
+  rpa:TX73_022005 K14986 PAS domain S-box protein
+  rpa:TX73_022010 K14987 fixJ; response regulator FixJ
+  rpa:TX73_022020 K15861 helix-turn-helix domain-containing protein
+  rpa:TX73_022295 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_022315 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_022320 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_022340 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_022530 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_022640 K07659 response regulator transcription factor
+  rpa:TX73_023095 K03406 cache domain-containing protein
+  rpa:TX73_023670 K11688 dctP; TRAP transporter substrate-binding protein DctP
+  rpa:TX73_023750 K04771 Do family serine endopeptidase
+  rpa:TX73_023810 K01179 cellulase family glycosylhydrolase
+  rpa:TX73_024090 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_024240 K03406 HAMP domain-containing methyl-accepting chemotaxis protein
+  rpa:TX73_024375 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_024390 K07795 tripartite tricarboxylate transporter substrate binding protein
+  rpa:TX73_024820 K07657 phoB; phosphate regulon transcriptional regulator PhoB
+  rpa:TX73_024845 K02040 pstS; phosphate ABC transporter substrate-binding protein PstS
+
+rpa01200 Carbon metabolism (67)
+
+  rpa:TX73_000960 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_000975 K00658 odhB; 2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase
+  rpa:TX73_000980 K00164 2-oxoglutarate dehydrogenase E1 component
+  rpa:TX73_000985 K01902 sucD; succinate--CoA ligase subunit alpha
+  rpa:TX73_001045 K27802 acnA; aconitate hydratase AcnA
+  rpa:TX73_001095 K01895 acs; acetate--CoA ligase
+  rpa:TX73_001120 K00240 succinate dehydrogenase iron-sulfur subunit
+  rpa:TX73_001125 K00239 sdhA; succinate dehydrogenase flavoprotein subunit
+  rpa:TX73_001130 K00242 sdhD; succinate dehydrogenase, hydrophobic membrane anchor protein
+  rpa:TX73_001970 K16370 1-phosphofructokinase family hexose kinase
+  rpa:TX73_002750 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_002755 K00023 beta-ketoacyl-ACP reductase
+  rpa:TX73_002780 K18118 acetyl-CoA hydrolase/transferase family protein
+  rpa:TX73_002885 K01738 cysK; cysteine synthase A
+  rpa:TX73_003785 K00127 formate dehydrogenase subunit gamma
+  rpa:TX73_003795 K00123 fdhF; formate dehydrogenase subunit alpha
+  rpa:TX73_004215 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004220 K01782 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_004845 K01623 fructose-bisphosphate aldolase class I
+  rpa:TX73_004865 K00134 gap; type I glyceraldehyde-3-phosphate dehydrogenase
+  rpa:TX73_004870 K00615 tkt; transketolase
+  rpa:TX73_006295 K00174 2-oxoacid:acceptor oxidoreductase subunit alpha
+  rpa:TX73_006305 K00177 2-oxoacid:acceptor oxidoreductase family protein
+  rpa:TX73_008015 K01602 ribulose bisphosphate carboxylase small subunit
+  rpa:TX73_008270 K09709 MaoC family dehydratase N-terminal domain-containing protein
+  rpa:TX73_009245 K11529 glycerate kinase
+  rpa:TX73_009435 K01847 scpA; methylmalonyl-CoA mutase
+  rpa:TX73_010080 K00121 S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase
+  rpa:TX73_011905 K01895 AMP-binding protein
+  rpa:TX73_011915 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_011920 K00248 acyl-CoA dehydrogenase family protein
+  rpa:TX73_012595 K01961 accC; acetyl-CoA carboxylase biotin carboxylase subunit
+  rpa:TX73_012600 K02160 accB; acetyl-CoA carboxylase biotin carboxyl carrier protein
+  rpa:TX73_012945 K11532 glpX; class II fructose-bisphosphatase
+  rpa:TX73_013280 K01738 cysteine synthase A
+  rpa:TX73_014835 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_014840 K00627 pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase
+  rpa:TX73_014850 K00162 pyruvate dehydrogenase complex E1 component subunit beta
+  rpa:TX73_014855 K00161 pdhA; pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha
+  rpa:TX73_015065 K01647 gltA; citrate synthase
+  rpa:TX73_015205 K05606 mce; methylmalonyl-CoA epimerase
+  rpa:TX73_016420 K01965 acetyl/propionyl/methylcrotonyl-CoA carboxylase subunit alpha
+  rpa:TX73_016565 K01966 acyl-CoA carboxylase subunit beta
+  rpa:TX73_017735 K00640 cysE; serine O-acetyltransferase
+  rpa:TX73_017830 K01895 AMP-binding protein
+  rpa:TX73_017860 K00140 CoA-acylating methylmalonate-semialdehyde dehydrogenase
+  rpa:TX73_017940 K00626 acetyl-CoA acetyltransferase
+  rpa:TX73_018780 K01053 SMP-30/gluconolactonase/LRE family protein
+  rpa:TX73_018840 K00033 gnd; decarboxylating 6-phosphogluconate dehydrogenase
+  rpa:TX73_018845 K00036 zwf; glucose-6-phosphate dehydrogenase
+  rpa:TX73_018850 K01057 pgl; 6-phosphogluconolactonase
+  rpa:TX73_019175 K00297 metF; methylenetetrahydrofolate reductase [NAD(P)H]
+  rpa:TX73_019255 K07516 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_019755 K01783 rpe; ribulose-phosphate 3-epimerase
+  rpa:TX73_019855 K00031 NADP-dependent isocitrate dehydrogenase
+  rpa:TX73_019925 K00605 gcvT; glycine cleavage system aminomethyltransferase GcvT
+  rpa:TX73_019930 K02437 gcvH; glycine cleavage system protein GcvH
+  rpa:TX73_020085 K01676 fumarate hydratase
+  rpa:TX73_021500 K00948 ribose-phosphate pyrophosphokinase
+  rpa:TX73_021735 K00873 pyk; pyruvate kinase
+  rpa:TX73_022325 K00058 serA; phosphoglycerate dehydrogenase
+  rpa:TX73_022330 K00831 phosphoserine transaminase
+  rpa:TX73_022530 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_022775 K01637 isocitrate lyase
+  rpa:TX73_024105 K01624 fba; fructose-bisphosphate aldolase class II
+  rpa:TX73_024115 K28462 phosphoribulokinase
+  rpa:TX73_024670 K00074 3-hydroxybutyryl-CoA dehydrogenase
+
+rpa01240 Biosynthesis of cofactors (62)
+
+  rpa:TX73_000960 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_001330 K01719 uroporphyrinogen-III synthase
+  rpa:TX73_002215 K00647 fabB; beta-ketoacyl-ACP synthase I
+  rpa:TX73_002220 K00208 fabI; enoyl-ACP reductase FabI
+  rpa:TX73_002575 K09883 cobT; cobaltochelatase subunit CobT
+  rpa:TX73_002585 K09882 cobS; cobaltochelatase subunit CobS
+  rpa:TX73_003715 K02232 cobyric acid synthase
+  rpa:TX73_004400 K00643 hemA; 5-aminolevulinate synthase
+  rpa:TX73_004570 K00963 galU; UTP--glucose-1-phosphate uridylyltransferase GalU
+  rpa:TX73_004805 K24843 SCP2 sterol-binding domain-containing protein
+  rpa:TX73_004810 K24844 U32 family peptidase
+  rpa:TX73_004815 K24845 U32 family peptidase
+  rpa:TX73_004840 K00788 thiamine phosphate synthase
+  rpa:TX73_005285 K03638 moaB; molybdenum cofactor biosynthesis protein B
+  rpa:TX73_005415 K00767 nadC; carboxylating nicotinate-nucleotide diphosphorylase
+  rpa:TX73_005495 K01465 dihydroorotase
+  rpa:TX73_005995 K03635 molybdenum cofactor biosynthesis protein MoaE
+  rpa:TX73_006160 K00208 fabI; enoyl-ACP reductase FabI
+  rpa:TX73_006555 K01956 carA; glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit
+  rpa:TX73_007780 K00228 hemF; oxygen-dependent coproporphyrinogen oxidase
+  rpa:TX73_007985 K00643 hemA; 5-aminolevulinate synthase
+  rpa:TX73_008565 K02495 hemN; oxygen-independent coproporphyrinogen III oxidase
+  rpa:TX73_008650 K00059 SDR family oxidoreductase
+  rpa:TX73_009450 K00950 folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+  rpa:TX73_009455 K01633 folB; dihydroneopterin aldolase
+  rpa:TX73_009460 K00796 folP; dihydropteroate synthase
+  rpa:TX73_010235 K01916 NAD+ synthase
+  rpa:TX73_010405 K09458 beta-ketoacyl-ACP synthase
+  rpa:TX73_010410 K09458 beta-ketoacyl-ACP synthase
+  rpa:TX73_010730 K02303 cobA; uroporphyrinogen-III C-methyltransferase
+  rpa:TX73_010740 K05936 cobM; precorrin-4 C(11)-methyltransferase
+  rpa:TX73_010760 K05934 cobJ; precorrin-3B C(17)-methyltransferase
+  rpa:TX73_010770 K06042 precorrin-8X methylmutase
+  rpa:TX73_011105 K00128 aldehyde dehydrogenase family protein
+  rpa:TX73_012735 K04487 cysteine desulfurase family protein
+  rpa:TX73_013845 K03185 UbiH/UbiF family hydroxylase
+  rpa:TX73_013995 K19267 SDR family oxidoreductase
+  rpa:TX73_014055 K01698 hemB; porphobilinogen synthase
+  rpa:TX73_014125 K11752 ribD; bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
+  rpa:TX73_014130 K00793 riboflavin synthase
+  rpa:TX73_014835 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_015040 K03750 molybdopterin molybdotransferase MoeA
+  rpa:TX73_015890 K09458 fabF; beta-ketoacyl-ACP synthase II
+  rpa:TX73_015900 K00059 fabG; 3-oxoacyl-[acyl-carrier-protein] reductase
+  rpa:TX73_016125 K01465 dihydroorotase
+  rpa:TX73_016700 K00939 adenylate kinase
+  rpa:TX73_016990 K02226 histidine phosphatase family protein
+  rpa:TX73_018535 K00788 thiamine phosphate synthase
+  rpa:TX73_018780 K01053 SMP-30/gluconolactonase/LRE family protein
+  rpa:TX73_019760 K01756 purB; adenylosuccinate lyase
+  rpa:TX73_020315 K00966 nucleotidyltransferase family protein
+  rpa:TX73_020810 K00789 metK; methionine adenosyltransferase
+  rpa:TX73_020820 K00012 UDP-glucose/GDP-mannose dehydrogenase family protein
+  rpa:TX73_020895 K01719 uroporphyrinogen-III synthase
+  rpa:TX73_021090 K01955 carB; carbamoyl-phosphate synthase large subunit
+  rpa:TX73_022330 K00831 phosphoserine transaminase
+  rpa:TX73_022650 K00826 branched-chain amino acid aminotransferase
+  rpa:TX73_023700 K00077 2-dehydropantoate 2-reductase
+  rpa:TX73_023730 K00208 fabI; enoyl-ACP reductase FabI
+  rpa:TX73_023875 K00059 SDR family NAD(P)-dependent oxidoreductase
+  rpa:TX73_024180 K00059 3-oxoacyl-ACP reductase FabG
+  rpa:TX73_024685 K00798 cob(I)yrinic acid a,c-diamide adenosyltransferase
+
+rpa02010 ABC transporters (59)
+
+  rpa:TX73_000255 K06861 lptB; LPS export ABC transporter ATP-binding protein
+  rpa:TX73_000300 K05813 ugpB; sn-glycerol-3-phosphate ABC transporter substrate-binding protein UgpB
+  rpa:TX73_002515 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_003005 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_003875 K23163 sulfate ABC transporter substrate-binding protein
+  rpa:TX73_004555 K15553 ABC transporter substrate-binding protein
+  rpa:TX73_005070 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_006340 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_006995 K15553 ABC transporter substrate-binding protein
+  rpa:TX73_007260 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_007265 K01995 ABC transporter ATP-binding protein
+  rpa:TX73_007270 K01996 ABC transporter ATP-binding protein
+  rpa:TX73_007330 K02073 MetQ/NlpA family ABC transporter substrate-binding protein
+  rpa:TX73_007340 K02073 MetQ/NlpA family ABC transporter substrate-binding protein
+  rpa:TX73_008485 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_008505 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_008955 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_008990 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_009200 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_009210 K01996 ABC transporter ATP-binding protein
+  rpa:TX73_009250 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_010335 K24821 ABC transporter ATP-binding protein/permease
+  rpa:TX73_010380 K11073 polyamine ABC transporter substrate-binding protein
+  rpa:TX73_010495 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_010525 K15553 ABC transporter substrate-binding protein
+  rpa:TX73_011775 K01996 ABC transporter ATP-binding protein
+  rpa:TX73_013240 K09969 amino acid ABC transporter substrate-binding protein
+  rpa:TX73_013585 K15553 aliphatic sulfonate ABC transporter substrate-binding protein
+  rpa:TX73_013605 K09969 amino acid ABC transporter substrate-binding protein
+  rpa:TX73_016000 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_017025 K01996 ABC transporter ATP-binding protein
+  rpa:TX73_017030 K01995 ABC transporter ATP-binding protein
+  rpa:TX73_017045 K01999 substrate-binding protein
+  rpa:TX73_017965 K10112 ugpC; sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC
+  rpa:TX73_018055 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_019015 K11959 urtA; urea ABC transporter substrate-binding protein
+  rpa:TX73_019125 K13893 extracellular solute-binding protein
+  rpa:TX73_019290 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_019295 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_019725 K01996 ABC transporter ATP-binding protein
+  rpa:TX73_019730 K01999 branched-chain amino acid ABC transporter substrate-binding protein
+  rpa:TX73_020520 K02067 MlaD family protein
+  rpa:TX73_020825 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_020855 K01996 ABC transporter ATP-binding protein
+  rpa:TX73_020875 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_020900 K01999 branched-chain amino acid ABC transporter substrate-binding protein
+  rpa:TX73_020955 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_021525 K02012 Fe(3+) ABC transporter substrate-binding protein
+  rpa:TX73_021565 K11076 ABC transporter ATP-binding protein
+  rpa:TX73_021620 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_021950 K02067 ABC-type transport auxiliary lipoprotein family protein
+  rpa:TX73_022830 K17321 ABC transporter substrate-binding protein
+  rpa:TX73_023780 K07335 BMP family ABC transporter substrate-binding protein
+  rpa:TX73_024505 K02020 modA; molybdate ABC transporter substrate-binding protein
+  rpa:TX73_024610 K09812 ftsE; cell division ATP-binding protein FtsE
+  rpa:TX73_024845 K02040 pstS; phosphate ABC transporter substrate-binding protein PstS
+  rpa:TX73_024930 K09969 amino acid ABC transporter substrate-binding protein
+  rpa:TX73_024985 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_025015 K01999 ABC transporter substrate-binding protein
+
+rpa02024 Quorum sensing (54)
+
+  rpa:TX73_000140 K01626 3-deoxy-7-phosphoheptulonate synthase
+  rpa:TX73_001085 K03110 ftsY; signal recognition particle-docking protein FtsY
+  rpa:TX73_001270 K03106 ffh; signal recognition particle protein
+  rpa:TX73_002515 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_003005 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_003270 K03217 yidC; membrane protein insertase YidC
+  rpa:TX73_005070 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_006255 K02035 ABC transporter substrate-binding protein
+  rpa:TX73_006340 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_007260 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_007265 K01995 ABC transporter ATP-binding protein
+  rpa:TX73_007270 K01996 ABC transporter ATP-binding protein
+  rpa:TX73_007430 K02035 ABC transporter substrate-binding protein
+  rpa:TX73_007445 K01897 AMP-binding protein
+  rpa:TX73_008485 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_008505 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_008955 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_008990 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_009200 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_009210 K01996 ABC transporter ATP-binding protein
+  rpa:TX73_009250 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_010225 K01626 3-deoxy-7-phosphoheptulonate synthase class II
+  rpa:TX73_010495 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_011050 K01897 AMP-binding protein
+  rpa:TX73_011505 K20266 trbJ; P-type conjugative transfer protein TrbJ
+  rpa:TX73_011775 K01996 ABC transporter ATP-binding protein
+  rpa:TX73_013300 K18139 efflux transporter outer membrane subunit
+  rpa:TX73_013700 K02035 ABC transporter substrate-binding protein
+  rpa:TX73_014125 K11752 ribD; bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
+  rpa:TX73_014665 K03210 yajC; preprotein translocase subunit YajC
+  rpa:TX73_014965 K03075 secG; preprotein translocase subunit SecG
+  rpa:TX73_016000 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_017025 K01996 ABC transporter ATP-binding protein
+  rpa:TX73_017030 K01995 ABC transporter ATP-binding protein
+  rpa:TX73_017045 K01999 substrate-binding protein
+  rpa:TX73_018055 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_019290 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_019295 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_019550 K18306 efflux RND transporter periplasmic adaptor subunit
+  rpa:TX73_019725 K01996 ABC transporter ATP-binding protein
+  rpa:TX73_019730 K01999 branched-chain amino acid ABC transporter substrate-binding protein
+  rpa:TX73_020825 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_020855 K01996 ABC transporter ATP-binding protein
+  rpa:TX73_020875 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_020900 K01999 branched-chain amino acid ABC transporter substrate-binding protein
+  rpa:TX73_020940 K01897 long-chain fatty acid--CoA ligase
+  rpa:TX73_020955 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_021620 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_022105 K01897 long-chain fatty acid--CoA ligase
+  rpa:TX73_024135 K02055 extracellular solute-binding protein
+  rpa:TX73_024145 K02052 ABC transporter ATP-binding protein
+  rpa:TX73_024985 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_025015 K01999 ABC transporter substrate-binding protein
+  rpa:TX73_025065 K01897 AMP-binding protein
+
+rpa01230 Biosynthesis of amino acids (48)
+
+  rpa:TX73_000140 K01626 3-deoxy-7-phosphoheptulonate synthase
+  rpa:TX73_001045 K27802 acnA; aconitate hydratase AcnA
+  rpa:TX73_001190 K00133 aspartate-semialdehyde dehydrogenase
+  rpa:TX73_001970 K16370 1-phosphofructokinase family hexose kinase
+  rpa:TX73_002885 K01738 cysK; cysteine synthase A
+  rpa:TX73_003125 K00928 aspartate kinase
+  rpa:TX73_004590 K00265 gltB; glutamate synthase large subunit
+  rpa:TX73_004595 K00266 glutamate synthase subunit beta
+  rpa:TX73_004845 K01623 fructose-bisphosphate aldolase class I
+  rpa:TX73_004865 K00134 gap; type I glyceraldehyde-3-phosphate dehydrogenase
+  rpa:TX73_004870 K00615 tkt; transketolase
+  rpa:TX73_005065 K01915 glutamine synthetase family protein
+  rpa:TX73_005905 K02502 ATP phosphoribosyltransferase regulatory subunit
+  rpa:TX73_008185 K06001 TrpB-like pyridoxal phosphate-dependent enzyme
+  rpa:TX73_008310 K01652 acetolactate synthase large subunit
+  rpa:TX73_010225 K01626 3-deoxy-7-phosphoheptulonate synthase class II
+  rpa:TX73_010310 K01649 cimA; citramalate synthase
+  rpa:TX73_010465 K01652 acetolactate synthase 3 large subunit
+  rpa:TX73_010470 K01653 ilvN; acetolactate synthase small subunit
+  rpa:TX73_011255 K00549 methionine synthase
+  rpa:TX73_012025 K01438 ArgE/DapE family deacylase
+  rpa:TX73_012185 K01758 PLP-dependent aspartate aminotransferase family protein
+  rpa:TX73_012875 K00145 argC; N-acetyl-gamma-glutamyl-phosphate reductase
+  rpa:TX73_012940 K00003 homoserine dehydrogenase
+  rpa:TX73_013280 K01738 cysteine synthase A
+  rpa:TX73_015065 K01647 gltA; citrate synthase
+  rpa:TX73_015390 K01915 glnA; type I glutamate--ammonia ligase
+  rpa:TX73_015700 K01438 ArgE/DapE family deacylase
+  rpa:TX73_016500 K01714 dihydrodipicolinate synthase family protein
+  rpa:TX73_017735 K00640 cysE; serine O-acetyltransferase
+  rpa:TX73_019180 K00548 metH; methionine synthase
+  rpa:TX73_019485 K01652 thiamine pyrophosphate-binding protein
+  rpa:TX73_019755 K01783 rpe; ribulose-phosphate 3-epimerase
+  rpa:TX73_019855 K00031 NADP-dependent isocitrate dehydrogenase
+  rpa:TX73_020810 K00789 metK; methionine adenosyltransferase
+  rpa:TX73_020995 K01735 3-dehydroquinate synthase
+  rpa:TX73_021005 K01652 thiamine pyrophosphate-binding protein
+  rpa:TX73_021500 K00948 ribose-phosphate pyrophosphokinase
+  rpa:TX73_021735 K00873 pyk; pyruvate kinase
+  rpa:TX73_022325 K00058 serA; phosphoglycerate dehydrogenase
+  rpa:TX73_022330 K00831 phosphoserine transaminase
+  rpa:TX73_022630 K00286 proC; pyrroline-5-carboxylate reductase
+  rpa:TX73_022650 K00826 branched-chain amino acid aminotransferase
+  rpa:TX73_023040 K00220 prephenate/arogenate dehydrogenase family protein
+  rpa:TX73_023350 K13503 anthranilate synthase component I
+  rpa:TX73_024105 K01624 fba; fructose-bisphosphate aldolase class II
+  rpa:TX73_024530 K00266 sulfide/dihydroorotate dehydrogenase-like FAD/NAD-binding protein
+  rpa:TX73_024575 K01476 rocF; arginase
+
+rpa01212 Fatty acid metabolism (36)
+
+  rpa:TX73_002215 K00647 fabB; beta-ketoacyl-ACP synthase I
+  rpa:TX73_002220 K00208 fabI; enoyl-ACP reductase FabI
+  rpa:TX73_002490 K00249 acyl-CoA/acyl-ACP dehydrogenase
+  rpa:TX73_002495 K00249 acyl-CoA dehydrogenase family protein
+  rpa:TX73_002750 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004215 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004220 K01782 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_006160 K00208 fabI; enoyl-ACP reductase FabI
+  rpa:TX73_006345 K00249 acyl-CoA dehydrogenase family protein
+  rpa:TX73_007445 K01897 AMP-binding protein
+  rpa:TX73_008280 K00249 acyl-CoA/acyl-ACP dehydrogenase
+  rpa:TX73_008650 K00059 SDR family oxidoreductase
+  rpa:TX73_008765 K00632 acetyl-CoA C-acetyltransferase
+  rpa:TX73_009315 K01692 enoyl-CoA hydratase
+  rpa:TX73_010405 K09458 beta-ketoacyl-ACP synthase
+  rpa:TX73_010410 K09458 beta-ketoacyl-ACP synthase
+  rpa:TX73_011050 K01897 AMP-binding protein
+  rpa:TX73_011915 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_011920 K00248 acyl-CoA dehydrogenase family protein
+  rpa:TX73_012595 K01961 accC; acetyl-CoA carboxylase biotin carboxylase subunit
+  rpa:TX73_012600 K02160 accB; acetyl-CoA carboxylase biotin carboxyl carrier protein
+  rpa:TX73_014200 K00648 ketoacyl-ACP synthase III
+  rpa:TX73_015890 K09458 fabF; beta-ketoacyl-ACP synthase II
+  rpa:TX73_015900 K00059 fabG; 3-oxoacyl-[acyl-carrier-protein] reductase
+  rpa:TX73_015905 K00645 fabD; ACP S-malonyltransferase
+  rpa:TX73_017005 K00249 acyl-CoA dehydrogenase family protein
+  rpa:TX73_017940 K00626 acetyl-CoA acetyltransferase
+  rpa:TX73_019245 K00632 acetyl-CoA C-acyltransferase
+  rpa:TX73_019255 K07516 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_020940 K01897 long-chain fatty acid--CoA ligase
+  rpa:TX73_022105 K01897 long-chain fatty acid--CoA ligase
+  rpa:TX73_022530 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_023730 K00208 fabI; enoyl-ACP reductase FabI
+  rpa:TX73_023875 K00059 SDR family NAD(P)-dependent oxidoreductase
+  rpa:TX73_024180 K00059 3-oxoacyl-ACP reductase FabG
+  rpa:TX73_025065 K01897 AMP-binding protein
+
+rpa00362 Benzoate degradation (32)
+
+  rpa:TX73_002660 K07823 pcaF; 3-oxoadipyl-CoA thiolase
+  rpa:TX73_002750 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_003385 K07536 badI; 2-ketocyclohexanecarboxyl-CoA hydrolase
+  rpa:TX73_003390 K07535 badH; 2-hydroxycyclohexanecarboxyl-CoA dehydrogenase
+  rpa:TX73_003410 K04113 bcrB; benzoyl-CoA reductase subunit B
+  rpa:TX73_003425 K04110 benzoate-CoA ligase family protein
+  rpa:TX73_003505 K15512 boxB; benzoyl-CoA 2,3-epoxidase subunit BoxB
+  rpa:TX73_004215 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004220 K01782 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_005180 K04101 class III extradiol dioxygenase family protein
+  rpa:TX73_005625 K00252 acyl-CoA dehydrogenase
+  rpa:TX73_006040 K01821 tautomerase family protein
+  rpa:TX73_008765 K00632 acetyl-CoA C-acetyltransferase
+  rpa:TX73_009160 K00481 pobA; 4-hydroxybenzoate 3-monooxygenase
+  rpa:TX73_009195 K01075 thioesterase family protein
+  rpa:TX73_009315 K01692 enoyl-CoA hydratase
+  rpa:TX73_011915 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_017940 K00626 acetyl-CoA acetyltransferase
+  rpa:TX73_019235 K28556 pimD; pimeloyl-CoA dehydrogenase small subunit
+  rpa:TX73_019240 K04118 pimC; pimeloyl-CoA dehydrogenase large subunit
+  rpa:TX73_019245 K00632 acetyl-CoA C-acyltransferase
+  rpa:TX73_019255 K07516 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_020495 K04755 2Fe-2S iron-sulfur cluster-binding protein
+  rpa:TX73_022530 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_024400 K16514 4-oxalomesaconate tautomerase
+  rpa:TX73_024405 K10220 amidohydrolase family protein
+  rpa:TX73_024420 K10221 amidohydrolase family protein
+  rpa:TX73_024425 K04100 ligA; protocatechuate 4,5-dioxygenase subunit alpha
+  rpa:TX73_024430 K04101 class III extradiol dioxygenase subunit beta
+  rpa:TX73_024435 K10219 Gfo/Idh/MocA family oxidoreductase
+  rpa:TX73_024630 K01607 carboxymuconolactone decarboxylase family protein
+  rpa:TX73_024670 K00074 3-hydroxybutyryl-CoA dehydrogenase
+
+rpa00280 Valine, leucine and isoleucine degradation (31)
+
+  rpa:TX73_000960 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_001145 K18661 malonyl-CoA synthase
+  rpa:TX73_002490 K00249 acyl-CoA/acyl-ACP dehydrogenase
+  rpa:TX73_002495 K00249 acyl-CoA dehydrogenase family protein
+  rpa:TX73_002750 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004215 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004220 K01782 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_006345 K00249 acyl-CoA dehydrogenase family protein
+  rpa:TX73_008280 K00249 acyl-CoA/acyl-ACP dehydrogenase
+  rpa:TX73_008290 K00253 isovaleryl-CoA dehydrogenase
+  rpa:TX73_008765 K00632 acetyl-CoA C-acetyltransferase
+  rpa:TX73_009315 K01692 enoyl-CoA hydratase
+  rpa:TX73_009435 K01847 scpA; methylmalonyl-CoA mutase
+  rpa:TX73_010170 NAD(P)-dependent oxidoreductase
+  rpa:TX73_011105 K00128 aldehyde dehydrogenase family protein
+  rpa:TX73_011915 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_011920 K00248 acyl-CoA dehydrogenase family protein
+  rpa:TX73_013125 K01640 hydroxymethylglutaryl-CoA lyase
+  rpa:TX73_014835 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_015205 K05606 mce; methylmalonyl-CoA epimerase
+  rpa:TX73_016420 K01965 acetyl/propionyl/methylcrotonyl-CoA carboxylase subunit alpha
+  rpa:TX73_016565 K01966 acyl-CoA carboxylase subunit beta
+  rpa:TX73_017005 K00249 acyl-CoA dehydrogenase family protein
+  rpa:TX73_017835 K00020 mmsB; 3-hydroxyisobutyrate dehydrogenase
+  rpa:TX73_017860 K00140 CoA-acylating methylmalonate-semialdehyde dehydrogenase
+  rpa:TX73_017940 K00626 acetyl-CoA acetyltransferase
+  rpa:TX73_019245 K00632 acetyl-CoA C-acyltransferase
+  rpa:TX73_021540 K01029 3-oxoacid CoA-transferase subunit B
+  rpa:TX73_021545 K01028 CoA transferase subunit A
+  rpa:TX73_022530 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_022650 K00826 branched-chain amino acid aminotransferase
+
+rpa00650 Butanoate metabolism (30)
+
+  rpa:TX73_001120 K00240 succinate dehydrogenase iron-sulfur subunit
+  rpa:TX73_001125 K00239 sdhA; succinate dehydrogenase flavoprotein subunit
+  rpa:TX73_001130 K00242 sdhD; succinate dehydrogenase, hydrophobic membrane anchor protein
+  rpa:TX73_002380 K18372 serine hydrolase
+  rpa:TX73_002390 K00135 NAD-dependent succinate-semialdehyde dehydrogenase
+  rpa:TX73_002750 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_002755 K00023 beta-ketoacyl-ACP reductase
+  rpa:TX73_002780 K18118 acetyl-CoA hydrolase/transferase family protein
+  rpa:TX73_004215 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004220 K01782 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_006295 K00174 2-oxoacid:acceptor oxidoreductase subunit alpha
+  rpa:TX73_008310 K01652 acetolactate synthase large subunit
+  rpa:TX73_009315 K01692 enoyl-CoA hydratase
+  rpa:TX73_010465 K01652 acetolactate synthase 3 large subunit
+  rpa:TX73_010470 K01653 ilvN; acetolactate synthase small subunit
+  rpa:TX73_011915 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_011920 K00248 acyl-CoA dehydrogenase family protein
+  rpa:TX73_011980 K01040 CoA synthetase
+  rpa:TX73_012925 K03821 phaC; class I poly(R)-hydroxyalkanoic acid synthase
+  rpa:TX73_013125 K01640 hydroxymethylglutaryl-CoA lyase
+  rpa:TX73_017940 K00626 acetyl-CoA acetyltransferase
+  rpa:TX73_019255 K07516 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_019485 K01652 thiamine pyrophosphate-binding protein
+  rpa:TX73_021005 K01652 thiamine pyrophosphate-binding protein
+  rpa:TX73_021540 K01029 3-oxoacid CoA-transferase subunit B
+  rpa:TX73_021545 K01028 CoA transferase subunit A
+  rpa:TX73_021805 K00019 3-hydroxybutyrate dehydrogenase
+  rpa:TX73_022530 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_024155 K01040 CoA synthetase
+  rpa:TX73_024670 K00074 3-hydroxybutyryl-CoA dehydrogenase
+
+rpa00630 Glyoxylate and dicarboxylate metabolism (30)
+
+  rpa:TX73_000960 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_001045 K27802 acnA; aconitate hydratase AcnA
+  rpa:TX73_001095 K01895 acs; acetate--CoA ligase
+  rpa:TX73_002195 K00015 D-glycerate dehydrogenase
+  rpa:TX73_002750 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_002755 K00023 beta-ketoacyl-ACP reductase
+  rpa:TX73_003785 K00127 formate dehydrogenase subunit gamma
+  rpa:TX73_003795 K00123 fdhF; formate dehydrogenase subunit alpha
+  rpa:TX73_004215 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_005065 K01915 glutamine synthetase family protein
+  rpa:TX73_005805 K00104 FAD-linked oxidase C-terminal domain-containing protein
+  rpa:TX73_005810 K11472 FAD-binding protein
+  rpa:TX73_008015 K01602 ribulose bisphosphate carboxylase small subunit
+  rpa:TX73_009245 K11529 glycerate kinase
+  rpa:TX73_009435 K01847 scpA; methylmalonyl-CoA mutase
+  rpa:TX73_010205 K01091 HAD-IA family hydrolase
+  rpa:TX73_011905 K01895 AMP-binding protein
+  rpa:TX73_011915 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_014835 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_015065 K01647 gltA; citrate synthase
+  rpa:TX73_015205 K05606 mce; methylmalonyl-CoA epimerase
+  rpa:TX73_015390 K01915 glnA; type I glutamate--ammonia ligase
+  rpa:TX73_016420 K01965 acetyl/propionyl/methylcrotonyl-CoA carboxylase subunit alpha
+  rpa:TX73_016565 K01966 acyl-CoA carboxylase subunit beta
+  rpa:TX73_017830 K01895 AMP-binding protein
+  rpa:TX73_017940 K00626 acetyl-CoA acetyltransferase
+  rpa:TX73_019925 K00605 gcvT; glycine cleavage system aminomethyltransferase GcvT
+  rpa:TX73_019930 K02437 gcvH; glycine cleavage system protein GcvH
+  rpa:TX73_022530 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_022775 K01637 isocitrate lyase
+
+rpa00860 Porphyrin metabolism (28)
+
+  rpa:TX73_001330 K01719 uroporphyrinogen-III synthase
+  rpa:TX73_001860 K07226 pyridoxamine 5'-phosphate oxidase family protein
+  rpa:TX73_002575 K09883 cobT; cobaltochelatase subunit CobT
+  rpa:TX73_002585 K09882 cobS; cobaltochelatase subunit CobS
+  rpa:TX73_003715 K02232 cobyric acid synthase
+  rpa:TX73_004400 K00643 hemA; 5-aminolevulinate synthase
+  rpa:TX73_007740 K03405 bchI; magnesium chelatase ATPase subunit I
+  rpa:TX73_007745 K03404 magnesium chelatase subunit D
+  rpa:TX73_007780 K00228 hemF; oxygen-dependent coproporphyrinogen oxidase
+  rpa:TX73_007820 K11337 bchC; chlorophyll synthesis pathway protein BchC
+  rpa:TX73_007825 K11333 chlorophyllide a reductase iron protein subunit X
+  rpa:TX73_007835 K11335 bchZ; chlorophyllide a reductase subunit Z
+  rpa:TX73_007880 K10960 geranylgeranyl diphosphate reductase
+  rpa:TX73_007910 K21480 biliverdin-producing heme oxygenase
+  rpa:TX73_007935 K03403 magnesium chelatase subunit H
+  rpa:TX73_007945 K03428 bchM; magnesium protoporphyrin IX methyltransferase
+  rpa:TX73_007985 K00643 hemA; 5-aminolevulinate synthase
+  rpa:TX73_008565 K02495 hemN; oxygen-independent coproporphyrinogen III oxidase
+  rpa:TX73_008575 K04034 bchE; magnesium-protoporphyrin IX monomethyl ester anaerobic oxidative cyclase
+  rpa:TX73_010730 K02303 cobA; uroporphyrinogen-III C-methyltransferase
+  rpa:TX73_010740 K05936 cobM; precorrin-4 C(11)-methyltransferase
+  rpa:TX73_010760 K05934 cobJ; precorrin-3B C(17)-methyltransferase
+  rpa:TX73_010770 K06042 precorrin-8X methylmutase
+  rpa:TX73_014055 K01698 hemB; porphobilinogen synthase
+  rpa:TX73_016990 K02226 histidine phosphatase family protein
+  rpa:TX73_018655 K03594 bfr; bacterioferritin
+  rpa:TX73_020895 K01719 uroporphyrinogen-III synthase
+  rpa:TX73_024685 K00798 cob(I)yrinic acid a,c-diamide adenosyltransferase
+
+rpa00620 Pyruvate metabolism (27)
+
+  rpa:TX73_000960 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_001095 K01895 acs; acetate--CoA ligase
+  rpa:TX73_002750 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_002780 K18118 acetyl-CoA hydrolase/transferase family protein
+  rpa:TX73_002945 K01069 MBL fold metallo-hydrolase
+  rpa:TX73_004215 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_006190 K13954 yiaY; L-threonine dehydrogenase
+  rpa:TX73_006295 K00174 2-oxoacid:acceptor oxidoreductase subunit alpha
+  rpa:TX73_010080 K00121 S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase
+  rpa:TX73_010310 K01649 cimA; citramalate synthase
+  rpa:TX73_011105 K00128 aldehyde dehydrogenase family protein
+  rpa:TX73_011905 K01895 AMP-binding protein
+  rpa:TX73_011915 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_012595 K01961 accC; acetyl-CoA carboxylase biotin carboxylase subunit
+  rpa:TX73_012600 K02160 accB; acetyl-CoA carboxylase biotin carboxyl carrier protein
+  rpa:TX73_013030 K01759 VOC family protein
+  rpa:TX73_014835 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_014840 K00627 pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase
+  rpa:TX73_014850 K00162 pyruvate dehydrogenase complex E1 component subunit beta
+  rpa:TX73_014855 K00161 pdhA; pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha
+  rpa:TX73_015865 K13953 alcohol dehydrogenase
+  rpa:TX73_017830 K01895 AMP-binding protein
+  rpa:TX73_017940 K00626 acetyl-CoA acetyltransferase
+  rpa:TX73_020085 K01676 fumarate hydratase
+  rpa:TX73_021735 K00873 pyk; pyruvate kinase
+  rpa:TX73_022385 K00101 alpha-hydroxy acid oxidase
+  rpa:TX73_022530 K00626 acetyl-CoA C-acetyltransferase
+
+rpa00071 Fatty acid degradation (26)
+
+  rpa:TX73_002490 K00249 acyl-CoA/acyl-ACP dehydrogenase
+  rpa:TX73_002495 K00249 acyl-CoA dehydrogenase family protein
+  rpa:TX73_002750 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004215 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004220 K01782 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_005625 K00252 acyl-CoA dehydrogenase
+  rpa:TX73_006190 K13954 yiaY; L-threonine dehydrogenase
+  rpa:TX73_006345 K00249 acyl-CoA dehydrogenase family protein
+  rpa:TX73_007445 K01897 AMP-binding protein
+  rpa:TX73_008280 K00249 acyl-CoA/acyl-ACP dehydrogenase
+  rpa:TX73_008765 K00632 acetyl-CoA C-acetyltransferase
+  rpa:TX73_009315 K01692 enoyl-CoA hydratase
+  rpa:TX73_010080 K00121 S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase
+  rpa:TX73_011050 K01897 AMP-binding protein
+  rpa:TX73_011105 K00128 aldehyde dehydrogenase family protein
+  rpa:TX73_011915 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_011920 K00248 acyl-CoA dehydrogenase family protein
+  rpa:TX73_015865 K13953 alcohol dehydrogenase
+  rpa:TX73_017005 K00249 acyl-CoA dehydrogenase family protein
+  rpa:TX73_017940 K00626 acetyl-CoA acetyltransferase
+  rpa:TX73_019245 K00632 acetyl-CoA C-acyltransferase
+  rpa:TX73_019255 K07516 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_020940 K01897 long-chain fatty acid--CoA ligase
+  rpa:TX73_022105 K01897 long-chain fatty acid--CoA ligase
+  rpa:TX73_022530 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_025065 K01897 AMP-binding protein
+
+rpa02030 Bacterial chemotaxis (25)
+
+  rpa:TX73_000715 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_001210 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_002240 K03406 PAS domain-containing methyl-accepting chemotaxis protein
+  rpa:TX73_004410 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_005875 K03414 protein phosphatase CheZ
+  rpa:TX73_006030 K03413 response regulator
+  rpa:TX73_006495 K02410 fliG; flagellar motor switch protein FliG
+  rpa:TX73_006505 K02417 fliN; flagellar motor switch protein FliN
+  rpa:TX73_008360 K03407 hybrid sensor histidine kinase/response regulator
+  rpa:TX73_008370 K03413 response regulator
+  rpa:TX73_008425 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_008610 K03776 methyl-accepting chemotaxis protein
+  rpa:TX73_008625 K00575 protein-glutamate O-methyltransferase CheR
+  rpa:TX73_009370 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_010360 K02557 flagellar motor protein MotB
+  rpa:TX73_016475 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_018380 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_022295 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_022315 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_022320 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_022340 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_023095 K03406 cache domain-containing protein
+  rpa:TX73_024090 K03406 methyl-accepting chemotaxis protein
+  rpa:TX73_024240 K03406 HAMP domain-containing methyl-accepting chemotaxis protein
+  rpa:TX73_024375 K03406 methyl-accepting chemotaxis protein
+
+rpa01210 2-Oxocarboxylic acid metabolism (24)
+
+  rpa:TX73_000960 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_000975 K00658 odhB; 2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase
+  rpa:TX73_000980 K00164 2-oxoglutarate dehydrogenase E1 component
+  rpa:TX73_001045 K27802 acnA; aconitate hydratase AcnA
+  rpa:TX73_001190 K00133 aspartate-semialdehyde dehydrogenase
+  rpa:TX73_003125 K00928 aspartate kinase
+  rpa:TX73_006295 K00174 2-oxoacid:acceptor oxidoreductase subunit alpha
+  rpa:TX73_006305 K00177 2-oxoacid:acceptor oxidoreductase family protein
+  rpa:TX73_008310 K01652 acetolactate synthase large subunit
+  rpa:TX73_010310 K01649 cimA; citramalate synthase
+  rpa:TX73_010465 K01652 acetolactate synthase 3 large subunit
+  rpa:TX73_010470 K01653 ilvN; acetolactate synthase small subunit
+  rpa:TX73_012025 K01438 ArgE/DapE family deacylase
+  rpa:TX73_012875 K00145 argC; N-acetyl-gamma-glutamyl-phosphate reductase
+  rpa:TX73_014835 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_014840 K00627 pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase
+  rpa:TX73_014850 K00162 pyruvate dehydrogenase complex E1 component subunit beta
+  rpa:TX73_014855 K00161 pdhA; pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha
+  rpa:TX73_015065 K01647 gltA; citrate synthase
+  rpa:TX73_015700 K01438 ArgE/DapE family deacylase
+  rpa:TX73_019485 K01652 thiamine pyrophosphate-binding protein
+  rpa:TX73_019855 K00031 NADP-dependent isocitrate dehydrogenase
+  rpa:TX73_021005 K01652 thiamine pyrophosphate-binding protein
+  rpa:TX73_022650 K00826 branched-chain amino acid aminotransferase
+
+rpa00920 Sulfur metabolism (24)
+
+  rpa:TX73_002885 K01738 cysK; cysteine synthase A
+  rpa:TX73_003875 K23163 sulfate ABC transporter substrate-binding protein
+  rpa:TX73_003880 K00390 phosphoadenylyl-sulfate reductase
+  rpa:TX73_003890 K00955 cysC; adenylyl-sulfate kinase
+  rpa:TX73_004210 K20035 acyl-CoA dehydrogenase C-terminal domain-containing protein
+  rpa:TX73_004555 K15553 ABC transporter substrate-binding protein
+  rpa:TX73_004935 K20035 acyl-CoA dehydrogenase
+  rpa:TX73_006995 K15553 ABC transporter substrate-binding protein
+  rpa:TX73_010525 K15553 ABC transporter substrate-binding protein
+  rpa:TX73_013280 K01738 cysteine synthase A
+  rpa:TX73_013585 K15553 aliphatic sulfonate ABC transporter substrate-binding protein
+  rpa:TX73_017735 K00640 cysE; serine O-acetyltransferase
+  rpa:TX73_018725 K01011 sseA; 3-mercaptopyruvate sulfurtransferase
+  rpa:TX73_021840 K00381 nitrite/sulfite reductase
+  rpa:TX73_023060 K20034 fatty-acid--CoA ligase
+  rpa:TX73_023160 K17229 FCSD flavin-binding domain-containing protein
+  rpa:TX73_023175 K22622 cytochrome c
+  rpa:TX73_023180 K17225 soxC; sulfite dehydrogenase
+  rpa:TX73_023185 K17224 soxB; thiosulfohydrolase SoxB
+  rpa:TX73_023190 K17227 soxZ; thiosulfate oxidation carrier complex protein SoxZ
+  rpa:TX73_023195 K17226 soxY; thiosulfate oxidation carrier protein SoxY
+  rpa:TX73_023200 K17222 soxA; sulfur oxidation c-type cytochrome SoxA
+  rpa:TX73_023205 K17223 soxX; sulfur oxidation c-type cytochrome SoxX
+  rpa:TX73_024775 K10764 O-succinylhomoserine sulfhydrylase
+
+rpa00270 Cysteine and methionine metabolism (24)
+
+  rpa:TX73_001190 K00133 aspartate-semialdehyde dehydrogenase
+  rpa:TX73_001930 K01761 megL; methionine gamma-lyase
+  rpa:TX73_002885 K01738 cysK; cysteine synthase A
+  rpa:TX73_003125 K00928 aspartate kinase
+  rpa:TX73_008060 K01740 O-acetylhomoserine aminocarboxypropyltransferase
+  rpa:TX73_011195 K01767 cupin domain-containing protein
+  rpa:TX73_011255 K00549 methionine synthase
+  rpa:TX73_012150 K01740 PLP-dependent transferase
+  rpa:TX73_012185 K01758 PLP-dependent aspartate aminotransferase family protein
+  rpa:TX73_012940 K00003 homoserine dehydrogenase
+  rpa:TX73_013280 K01738 cysteine synthase A
+  rpa:TX73_014315 K01740 O-acetylhomoserine aminocarboxypropyltransferase
+  rpa:TX73_017735 K00640 cysE; serine O-acetyltransferase
+  rpa:TX73_018725 K01011 sseA; 3-mercaptopyruvate sulfurtransferase
+  rpa:TX73_019180 K00548 metH; methionine synthase
+  rpa:TX73_020810 K00789 metK; methionine adenosyltransferase
+  rpa:TX73_022025 K01740 aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme
+  rpa:TX73_022325 K00058 serA; phosphoglycerate dehydrogenase
+  rpa:TX73_022330 K00831 phosphoserine transaminase
+  rpa:TX73_022600 K05810 pgeF; peptidoglycan editing factor PgeF
+  rpa:TX73_022650 K00826 branched-chain amino acid aminotransferase
+  rpa:TX73_024775 K10764 O-succinylhomoserine sulfhydrylase
+  rpa:TX73_025050 K08963 mtnA; S-methyl-5-thioribose-1-phosphate isomerase
+  rpa:TX73_025055 K00772 S-methyl-5'-thioadenosine phosphorylase
+
+rpa00720 Other carbon fixation pathways (23)
+
+  rpa:TX73_000985 K01902 sucD; succinate--CoA ligase subunit alpha
+  rpa:TX73_001045 K27802 acnA; aconitate hydratase AcnA
+  rpa:TX73_001095 K01895 acs; acetate--CoA ligase
+  rpa:TX73_001120 K00240 succinate dehydrogenase iron-sulfur subunit
+  rpa:TX73_001125 K00239 sdhA; succinate dehydrogenase flavoprotein subunit
+  rpa:TX73_001130 K00242 sdhD; succinate dehydrogenase, hydrophobic membrane anchor protein
+  rpa:TX73_002750 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004215 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_006295 K00174 2-oxoacid:acceptor oxidoreductase subunit alpha
+  rpa:TX73_006305 K00177 2-oxoacid:acceptor oxidoreductase family protein
+  rpa:TX73_008270 K09709 MaoC family dehydratase N-terminal domain-containing protein
+  rpa:TX73_009435 K01847 scpA; methylmalonyl-CoA mutase
+  rpa:TX73_011905 K01895 AMP-binding protein
+  rpa:TX73_011915 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_012595 K01961 accC; acetyl-CoA carboxylase biotin carboxylase subunit
+  rpa:TX73_012600 K02160 accB; acetyl-CoA carboxylase biotin carboxyl carrier protein
+  rpa:TX73_015205 K05606 mce; methylmalonyl-CoA epimerase
+  rpa:TX73_017830 K01895 AMP-binding protein
+  rpa:TX73_017940 K00626 acetyl-CoA acetyltransferase
+  rpa:TX73_019175 K00297 metF; methylenetetrahydrofolate reductase [NAD(P)H]
+  rpa:TX73_019855 K00031 NADP-dependent isocitrate dehydrogenase
+  rpa:TX73_020085 K01676 fumarate hydratase
+  rpa:TX73_022530 K00626 acetyl-CoA C-acetyltransferase
+
+rpa00010 Glycolysis / Gluconeogenesis (22)
+
+  rpa:TX73_000960 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_001095 K01895 acs; acetate--CoA ligase
+  rpa:TX73_001970 K16370 1-phosphofructokinase family hexose kinase
+  rpa:TX73_004845 K01623 fructose-bisphosphate aldolase class I
+  rpa:TX73_004865 K00134 gap; type I glyceraldehyde-3-phosphate dehydrogenase
+  rpa:TX73_006190 K13954 yiaY; L-threonine dehydrogenase
+  rpa:TX73_006295 K00174 2-oxoacid:acceptor oxidoreductase subunit alpha
+  rpa:TX73_007630 K01835 pgm; phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+  rpa:TX73_010080 K00121 S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase
+  rpa:TX73_011105 K00128 aldehyde dehydrogenase family protein
+  rpa:TX73_011905 K01895 AMP-binding protein
+  rpa:TX73_012945 K11532 glpX; class II fructose-bisphosphatase
+  rpa:TX73_014835 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_014840 K00627 pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase
+  rpa:TX73_014850 K00162 pyruvate dehydrogenase complex E1 component subunit beta
+  rpa:TX73_014855 K00161 pdhA; pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha
+  rpa:TX73_015020 K20866 HAD family phosphatase
+  rpa:TX73_015865 K13953 alcohol dehydrogenase
+  rpa:TX73_017170 K15778 phosphomannomutase/phosphoglucomutase
+  rpa:TX73_017830 K01895 AMP-binding protein
+  rpa:TX73_021735 K00873 pyk; pyruvate kinase
+  rpa:TX73_024105 K01624 fba; fructose-bisphosphate aldolase class II
+
+rpa00640 Propanoate metabolism (21)
+
+  rpa:TX73_000960 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_000985 K01902 sucD; succinate--CoA ligase subunit alpha
+  rpa:TX73_001045 K27802 acnA; aconitate hydratase AcnA
+  rpa:TX73_001095 K01895 acs; acetate--CoA ligase
+  rpa:TX73_004220 K01782 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_005430 K19745 oxidoreductase
+  rpa:TX73_009315 K01692 enoyl-CoA hydratase
+  rpa:TX73_009435 K01847 scpA; methylmalonyl-CoA mutase
+  rpa:TX73_011905 K01895 AMP-binding protein
+  rpa:TX73_011920 K00248 acyl-CoA dehydrogenase family protein
+  rpa:TX73_012595 K01961 accC; acetyl-CoA carboxylase biotin carboxylase subunit
+  rpa:TX73_012600 K02160 accB; acetyl-CoA carboxylase biotin carboxyl carrier protein
+  rpa:TX73_014835 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_015205 K05606 mce; methylmalonyl-CoA epimerase
+  rpa:TX73_016420 K01965 acetyl/propionyl/methylcrotonyl-CoA carboxylase subunit alpha
+  rpa:TX73_016565 K01966 acyl-CoA carboxylase subunit beta
+  rpa:TX73_017830 K01895 AMP-binding protein
+  rpa:TX73_017860 K00140 CoA-acylating methylmalonate-semialdehyde dehydrogenase
+  rpa:TX73_022775 K01637 isocitrate lyase
+  rpa:TX73_023385 K01908 propionyl-CoA synthetase
+  rpa:TX73_024185 K19745 oxidoreductase
+
+rpa00230 Purine metabolism (20)
+
+  rpa:TX73_000145 K00602 purH; bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+  rpa:TX73_002890 K01923 phosphoribosylaminoimidazolesuccinocarboxamide synthase
+  rpa:TX73_003890 K00955 cysC; adenylyl-sulfate kinase
+  rpa:TX73_007630 K01835 pgm; phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+  rpa:TX73_011355 K00088 guaB; IMP dehydrogenase
+  rpa:TX73_013955 K01139 bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+  rpa:TX73_014555 K04765 mazG; nucleoside triphosphate pyrophosphohydrolase
+  rpa:TX73_014785 K01129 deoxyguanosinetriphosphate triphosphohydrolase
+  rpa:TX73_015070 K01487 nucleoside deaminase
+  rpa:TX73_015440 K00525 vitamin B12-dependent ribonucleotide reductase
+  rpa:TX73_015990 K00764 purF; amidophosphoribosyltransferase
+  rpa:TX73_016700 K00939 adenylate kinase
+  rpa:TX73_017170 K15778 phosphomannomutase/phosphoglucomutase
+  rpa:TX73_019760 K01756 purB; adenylosuccinate lyase
+  rpa:TX73_019775 K23264 purS; phosphoribosylformylglycinamidine synthase subunit PurS
+  rpa:TX73_021500 K00948 ribose-phosphate pyrophosphokinase
+  rpa:TX73_021640 K01588 purE; 5-(carboxyamino)imidazole ribonucleotide mutase
+  rpa:TX73_021645 K01589 5-(carboxyamino)imidazole ribonucleotide synthase
+  rpa:TX73_022600 K05810 pgeF; peptidoglycan editing factor PgeF
+  rpa:TX73_023115 K09769 TIGR00282 family metallophosphoesterase
+
+rpa00061 Fatty acid biosynthesis (20)
+
+  rpa:TX73_002215 K00647 fabB; beta-ketoacyl-ACP synthase I
+  rpa:TX73_002220 K00208 fabI; enoyl-ACP reductase FabI
+  rpa:TX73_006160 K00208 fabI; enoyl-ACP reductase FabI
+  rpa:TX73_007445 K01897 AMP-binding protein
+  rpa:TX73_008650 K00059 SDR family oxidoreductase
+  rpa:TX73_010405 K09458 beta-ketoacyl-ACP synthase
+  rpa:TX73_010410 K09458 beta-ketoacyl-ACP synthase
+  rpa:TX73_011050 K01897 AMP-binding protein
+  rpa:TX73_012595 K01961 accC; acetyl-CoA carboxylase biotin carboxylase subunit
+  rpa:TX73_012600 K02160 accB; acetyl-CoA carboxylase biotin carboxyl carrier protein
+  rpa:TX73_014200 K00648 ketoacyl-ACP synthase III
+  rpa:TX73_015890 K09458 fabF; beta-ketoacyl-ACP synthase II
+  rpa:TX73_015900 K00059 fabG; 3-oxoacyl-[acyl-carrier-protein] reductase
+  rpa:TX73_015905 K00645 fabD; ACP S-malonyltransferase
+  rpa:TX73_020940 K01897 long-chain fatty acid--CoA ligase
+  rpa:TX73_022105 K01897 long-chain fatty acid--CoA ligase
+  rpa:TX73_023730 K00208 fabI; enoyl-ACP reductase FabI
+  rpa:TX73_023875 K00059 SDR family NAD(P)-dependent oxidoreductase
+  rpa:TX73_024180 K00059 3-oxoacyl-ACP reductase FabG
+  rpa:TX73_025065 K01897 AMP-binding protein
+
+rpa02040 Flagellar assembly (19)
+
+  rpa:TX73_000260 K03092 rpoN; RNA polymerase factor sigma-54
+  rpa:TX73_006495 K02410 fliG; flagellar motor switch protein FliG
+  rpa:TX73_006505 K02417 fliN; flagellar motor switch protein FliN
+  rpa:TX73_006510 K10943 sigma-54 dependent transcriptional regulator
+  rpa:TX73_006610 K03086 rpoD; RNA polymerase sigma factor RpoD
+  rpa:TX73_006690 K02389 flagellar hook capping FlgD N-terminal domain-containing protein
+  rpa:TX73_008395 K02413 fliJ; flagellar export protein FliJ
+  rpa:TX73_010360 K02557 flagellar motor protein MotB
+  rpa:TX73_020150 K02408 fliE; flagellar hook-basal body complex protein FliE
+  rpa:TX73_020155 K02388 flgC; flagellar basal body rod protein FlgC
+  rpa:TX73_020165 K02418 flagellar biosynthetic protein FliO
+  rpa:TX73_020210 K02415 fliL; flagellar basal body-associated protein FliL
+  rpa:TX73_020215 K02391 flgF; flagellar basal-body rod protein FlgF
+  rpa:TX73_020220 K02392 flgG; flagellar basal-body rod protein FlgG
+  rpa:TX73_020295 K02406 DUF1522 domain-containing protein
+  rpa:TX73_020365 K02406 DUF1522 domain-containing protein
+  rpa:TX73_020370 K02397 flagellar biosynthesis protein FlgL
+  rpa:TX73_020375 K02396 flgK; flagellar hook-associated protein FlgK
+  rpa:TX73_020380 K02390 flagellar hook-basal body complex protein
+
+rpa00380 Tryptophan metabolism (18)
+
+  rpa:TX73_000960 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_000975 K00658 odhB; 2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase
+  rpa:TX73_002750 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004215 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004220 K01782 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_005625 K00252 acyl-CoA dehydrogenase
+  rpa:TX73_008920 K01426 amidase family protein
+  rpa:TX73_009315 K01692 enoyl-CoA hydratase
+  rpa:TX73_011105 K00128 aldehyde dehydrogenase family protein
+  rpa:TX73_011915 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_014525 K01721 nthA; nitrile hydratase subunit alpha
+  rpa:TX73_014835 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_016115 K04103 ipdC; indolepyruvate/phenylpyruvate decarboxylase
+  rpa:TX73_017805 K01426 amidase
+  rpa:TX73_017940 K00626 acetyl-CoA acetyltransferase
+  rpa:TX73_018805 K01426 amidase family protein
+  rpa:TX73_022530 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_023110 K01593 pyridoxal-dependent decarboxylase
+
+rpa00020 Citrate cycle (TCA cycle) (18)
+
+  rpa:TX73_000960 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_000975 K00658 odhB; 2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase
+  rpa:TX73_000980 K00164 2-oxoglutarate dehydrogenase E1 component
+  rpa:TX73_000985 K01902 sucD; succinate--CoA ligase subunit alpha
+  rpa:TX73_001045 K27802 acnA; aconitate hydratase AcnA
+  rpa:TX73_001120 K00240 succinate dehydrogenase iron-sulfur subunit
+  rpa:TX73_001125 K00239 sdhA; succinate dehydrogenase flavoprotein subunit
+  rpa:TX73_001130 K00242 sdhD; succinate dehydrogenase, hydrophobic membrane anchor protein
+  rpa:TX73_002780 K18118 acetyl-CoA hydrolase/transferase family protein
+  rpa:TX73_006295 K00174 2-oxoacid:acceptor oxidoreductase subunit alpha
+  rpa:TX73_006305 K00177 2-oxoacid:acceptor oxidoreductase family protein
+  rpa:TX73_014835 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_014840 K00627 pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase
+  rpa:TX73_014850 K00162 pyruvate dehydrogenase complex E1 component subunit beta
+  rpa:TX73_014855 K00161 pdhA; pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha
+  rpa:TX73_015065 K01647 gltA; citrate synthase
+  rpa:TX73_019855 K00031 NADP-dependent isocitrate dehydrogenase
+  rpa:TX73_020085 K01676 fumarate hydratase
+
+rpa01250 Biosynthesis of nucleotide sugars (18)
+
+  rpa:TX73_000395 K00992 nucleotidyltransferase family protein
+  rpa:TX73_000405 K07102 bifunctional tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE/phosphotransferase
+  rpa:TX73_000610 K01790 rfbC; dTDP-4-dehydrorhamnose 3,5-epimerase
+  rpa:TX73_000615 K00067 rfbD; dTDP-4-dehydrorhamnose reductase
+  rpa:TX73_000900 K08678 SDR family oxidoreductase
+  rpa:TX73_004570 K00963 galU; UTP--glucose-1-phosphate uridylyltransferase GalU
+  rpa:TX73_007630 K01835 pgm; phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+  rpa:TX73_013785 K00820 glmS; glutamine--fructose-6-phosphate transaminase (isomerizing)
+  rpa:TX73_017170 K15778 phosphomannomutase/phosphoglucomutase
+  rpa:TX73_017175 K16011 mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase
+  rpa:TX73_020315 K00966 nucleotidyltransferase family protein
+  rpa:TX73_020475 K15856 GDP-mannose 4,6-dehydratase
+  rpa:TX73_020615 K13017 DegT/DnrJ/EryC1/StrS family aminotransferase
+  rpa:TX73_020650 K03274 rfaD; ADP-glyceromanno-heptose 6-epimerase
+  rpa:TX73_020660 K03271 D-sedoheptulose 7-phosphate isomerase
+  rpa:TX73_020820 K00012 UDP-glucose/GDP-mannose dehydrogenase family protein
+  rpa:TX73_020975 K00978 rfbF; glucose-1-phosphate cytidylyltransferase
+  rpa:TX73_020980 K01709 rfbG; CDP-glucose 4,6-dehydratase
+
+rpa00480 Glutathione metabolism (16)
+
+  rpa:TX73_000130 K00681 ggt; gamma-glutamyltransferase
+  rpa:TX73_000220 K00799 glutathione S-transferase family protein
+  rpa:TX73_004005 K00681 gamma-glutamyltransferase
+  rpa:TX73_004230 K00799 gstA; glutathione transferase GstA
+  rpa:TX73_004485 K01581 type III PLP-dependent enzyme
+  rpa:TX73_010220 K00383 gor; glutathione-disulfide reductase
+  rpa:TX73_012055 K00681 ggt; gamma-glutamyltransferase
+  rpa:TX73_016330 K00799 glutathione S-transferase family protein
+  rpa:TX73_018800 K00432 glutathione peroxidase
+  rpa:TX73_018840 K00033 gnd; decarboxylating 6-phosphogluconate dehydrogenase
+  rpa:TX73_018845 K00036 zwf; glucose-6-phosphate dehydrogenase
+  rpa:TX73_019095 K01255 leucyl aminopeptidase family protein
+  rpa:TX73_019855 K00031 NADP-dependent isocitrate dehydrogenase
+  rpa:TX73_022110 K24138 peroxiredoxin
+  rpa:TX73_022445 K00799 glutathione S-transferase family protein
+  rpa:TX73_022905 K00681 ggt; gamma-glutamyltransferase
+
+rpa00190 Oxidative phosphorylation (15)
+
+  rpa:TX73_000085 K00406 ccoP; cytochrome-c oxidase, cbb3-type subunit III
+  rpa:TX73_000095 K00405 ccoO; cytochrome-c oxidase, cbb3-type subunit II
+  rpa:TX73_001120 K00240 succinate dehydrogenase iron-sulfur subunit
+  rpa:TX73_001125 K00239 sdhA; succinate dehydrogenase flavoprotein subunit
+  rpa:TX73_001130 K00242 sdhD; succinate dehydrogenase, hydrophobic membrane anchor protein
+  rpa:TX73_002135 K01507 ppa; inorganic diphosphatase
+  rpa:TX73_004285 K02275 coxB; cytochrome c oxidase subunit II
+  rpa:TX73_005225 K00411 petA; ubiquinol-cytochrome c reductase iron-sulfur subunit
+  rpa:TX73_006125 K00410 cytochrome c1
+  rpa:TX73_015260 K00335 nuoF; NADH-quinone oxidoreductase subunit NuoF
+  rpa:TX73_015270 K00334 nuoE; NADH-quinone oxidoreductase subunit NuoE
+  rpa:TX73_019135 K08738 cytochrome c family protein
+  rpa:TX73_022065 K00336 nuoG; NADH-quinone oxidoreductase subunit NuoG
+  rpa:TX73_022070 K00335 NADH-quinone oxidoreductase subunit F
+  rpa:TX73_022075 K00334 nuoE; NADH-quinone oxidoreductase subunit NuoE
+
+rpa01220 Degradation of aromatic compounds (14)
+
+  rpa:TX73_003385 K07536 badI; 2-ketocyclohexanecarboxyl-CoA hydrolase
+  rpa:TX73_003390 K07535 badH; 2-hydroxycyclohexanecarboxyl-CoA dehydrogenase
+  rpa:TX73_003410 K04113 bcrB; benzoyl-CoA reductase subunit B
+  rpa:TX73_006040 K01821 tautomerase family protein
+  rpa:TX73_006190 K13954 yiaY; L-threonine dehydrogenase
+  rpa:TX73_009160 K00481 pobA; 4-hydroxybenzoate 3-monooxygenase
+  rpa:TX73_010080 K00121 S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase
+  rpa:TX73_015475 K01826 5-carboxymethyl-2-hydroxymuconate Delta-isomerase
+  rpa:TX73_015865 K13953 alcohol dehydrogenase
+  rpa:TX73_018780 K01053 SMP-30/gluconolactonase/LRE family protein
+  rpa:TX73_019465 K01826 5-carboxymethyl-2-hydroxymuconate Delta-isomerase
+  rpa:TX73_019470 K00151 hpaE; 5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase
+  rpa:TX73_024435 K10219 Gfo/Idh/MocA family oxidoreductase
+  rpa:TX73_024630 K01607 carboxymuconolactone decarboxylase family protein
+
+rpa00310 Lysine degradation (14)
+
+  rpa:TX73_000960 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_000975 K00658 odhB; 2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase
+  rpa:TX73_002390 K00135 NAD-dependent succinate-semialdehyde dehydrogenase
+  rpa:TX73_002750 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004215 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004220 K01782 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_005625 K00252 acyl-CoA dehydrogenase
+  rpa:TX73_009315 K01692 enoyl-CoA hydratase
+  rpa:TX73_011105 K00128 aldehyde dehydrogenase family protein
+  rpa:TX73_011915 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_013435 K00824 D-amino-acid transaminase
+  rpa:TX73_014835 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_017940 K00626 acetyl-CoA acetyltransferase
+  rpa:TX73_022530 K00626 acetyl-CoA C-acetyltransferase
+
+rpa00030 Pentose phosphate pathway (14)
+
+  rpa:TX73_001970 K16370 1-phosphofructokinase family hexose kinase
+  rpa:TX73_004845 K01623 fructose-bisphosphate aldolase class I
+  rpa:TX73_004870 K00615 tkt; transketolase
+  rpa:TX73_007630 K01835 pgm; phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+  rpa:TX73_009245 K11529 glycerate kinase
+  rpa:TX73_012945 K11532 glpX; class II fructose-bisphosphatase
+  rpa:TX73_017170 K15778 phosphomannomutase/phosphoglucomutase
+  rpa:TX73_018780 K01053 SMP-30/gluconolactonase/LRE family protein
+  rpa:TX73_018840 K00033 gnd; decarboxylating 6-phosphogluconate dehydrogenase
+  rpa:TX73_018845 K00036 zwf; glucose-6-phosphate dehydrogenase
+  rpa:TX73_018850 K01057 pgl; 6-phosphogluconolactonase
+  rpa:TX73_019755 K01783 rpe; ribulose-phosphate 3-epimerase
+  rpa:TX73_021500 K00948 ribose-phosphate pyrophosphokinase
+  rpa:TX73_024105 K01624 fba; fructose-bisphosphate aldolase class II
+
+rpa00260 Glycine, serine and threonine metabolism (14)
+
+  rpa:TX73_000960 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_001190 K00133 aspartate-semialdehyde dehydrogenase
+  rpa:TX73_003125 K00928 aspartate kinase
+  rpa:TX73_004400 K00643 hemA; 5-aminolevulinate synthase
+  rpa:TX73_007985 K00643 hemA; 5-aminolevulinate synthase
+  rpa:TX73_008185 K06001 TrpB-like pyridoxal phosphate-dependent enzyme
+  rpa:TX73_009245 K11529 glycerate kinase
+  rpa:TX73_012185 K01758 PLP-dependent aspartate aminotransferase family protein
+  rpa:TX73_012940 K00003 homoserine dehydrogenase
+  rpa:TX73_014835 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_019925 K00605 gcvT; glycine cleavage system aminomethyltransferase GcvT
+  rpa:TX73_019930 K02437 gcvH; glycine cleavage system protein GcvH
+  rpa:TX73_022325 K00058 serA; phosphoglycerate dehydrogenase
+  rpa:TX73_022330 K00831 phosphoserine transaminase
+
+rpa00520 Amino sugar and nucleotide sugar metabolism (13)
+
+  rpa:TX73_000395 K00992 nucleotidyltransferase family protein
+  rpa:TX73_000405 K07102 bifunctional tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE/phosphotransferase
+  rpa:TX73_000900 K08678 SDR family oxidoreductase
+  rpa:TX73_001840 K02793 PTS sugar transporter subunit IIA
+  rpa:TX73_004570 K00963 galU; UTP--glucose-1-phosphate uridylyltransferase GalU
+  rpa:TX73_007630 K01835 pgm; phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+  rpa:TX73_013785 K00820 glmS; glutamine--fructose-6-phosphate transaminase (isomerizing)
+  rpa:TX73_014770 K01207 nagZ; beta-N-acetylhexosaminidase
+  rpa:TX73_017170 K15778 phosphomannomutase/phosphoglucomutase
+  rpa:TX73_017175 K16011 mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase
+  rpa:TX73_020315 K00966 nucleotidyltransferase family protein
+  rpa:TX73_020820 K00012 UDP-glucose/GDP-mannose dehydrogenase family protein
+  rpa:TX73_020975 K00978 rfbF; glucose-1-phosphate cytidylyltransferase
+
+rpa00350 Tyrosine metabolism (13)
+
+  rpa:TX73_002390 K00135 NAD-dependent succinate-semialdehyde dehydrogenase
+  rpa:TX73_006190 K13954 yiaY; L-threonine dehydrogenase
+  rpa:TX73_010080 K00121 S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase
+  rpa:TX73_015475 K01826 5-carboxymethyl-2-hydroxymuconate Delta-isomerase
+  rpa:TX73_015865 K13953 alcohol dehydrogenase
+  rpa:TX73_018475 K01668 tryptophanase
+  rpa:TX73_019445 K02510 aldolase/citrate lyase family protein
+  rpa:TX73_019450 K13574 malate/lactate/ureidoglycolate dehydrogenase
+  rpa:TX73_019465 K01826 5-carboxymethyl-2-hydroxymuconate Delta-isomerase
+  rpa:TX73_019470 K00151 hpaE; 5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase
+  rpa:TX73_020685 K16165 fumarylacetoacetate hydrolase family protein
+  rpa:TX73_023110 K01593 pyridoxal-dependent decarboxylase
+  rpa:TX73_024435 K10219 Gfo/Idh/MocA family oxidoreductase
+
+rpa00680 Methane metabolism (13)
+
+  rpa:TX73_001095 K01895 acs; acetate--CoA ligase
+  rpa:TX73_001970 K16370 1-phosphofructokinase family hexose kinase
+  rpa:TX73_003785 K00127 formate dehydrogenase subunit gamma
+  rpa:TX73_003795 K00123 fdhF; formate dehydrogenase subunit alpha
+  rpa:TX73_004845 K01623 fructose-bisphosphate aldolase class I
+  rpa:TX73_009245 K11529 glycerate kinase
+  rpa:TX73_010080 K00121 S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase
+  rpa:TX73_011905 K01895 AMP-binding protein
+  rpa:TX73_012945 K11532 glpX; class II fructose-bisphosphatase
+  rpa:TX73_017830 K01895 AMP-binding protein
+  rpa:TX73_022325 K00058 serA; phosphoglycerate dehydrogenase
+  rpa:TX73_022330 K00831 phosphoserine transaminase
+  rpa:TX73_024105 K01624 fba; fructose-bisphosphate aldolase class II
+
+rpa00360 Phenylalanine metabolism (13)
+
+  rpa:TX73_002510 K15866 enoyl-CoA hydratase
+  rpa:TX73_008875 K02618 paaZ; phenylacetic acid degradation bifunctional protein PaaZ
+  rpa:TX73_008920 K01426 amidase family protein
+  rpa:TX73_009040 K15866 enoyl-CoA hydratase/isomerase
+  rpa:TX73_009315 K01692 enoyl-CoA hydratase
+  rpa:TX73_013435 K00824 D-amino-acid transaminase
+  rpa:TX73_017805 K01426 amidase
+  rpa:TX73_018805 K01426 amidase family protein
+  rpa:TX73_019450 K13574 malate/lactate/ureidoglycolate dehydrogenase
+  rpa:TX73_019490 K02613 paaK; phenylacetate-CoA oxygenase/reductase subunit PaaK
+  rpa:TX73_019500 K02611 paaC; phenylacetate-CoA oxygenase subunit PaaC
+  rpa:TX73_023110 K01593 pyridoxal-dependent decarboxylase
+  rpa:TX73_024670 K00074 3-hydroxybutyryl-CoA dehydrogenase
+
+rpa01320 Sulfur cycle (13)
+
+  rpa:TX73_002885 K01738 cysK; cysteine synthase A
+  rpa:TX73_003880 K00390 phosphoadenylyl-sulfate reductase
+  rpa:TX73_003890 K00955 cysC; adenylyl-sulfate kinase
+  rpa:TX73_013280 K01738 cysteine synthase A
+  rpa:TX73_021840 K00381 nitrite/sulfite reductase
+  rpa:TX73_023160 K17229 FCSD flavin-binding domain-containing protein
+  rpa:TX73_023175 K22622 cytochrome c
+  rpa:TX73_023180 K17225 soxC; sulfite dehydrogenase
+  rpa:TX73_023185 K17224 soxB; thiosulfohydrolase SoxB
+  rpa:TX73_023190 K17227 soxZ; thiosulfate oxidation carrier complex protein SoxZ
+  rpa:TX73_023195 K17226 soxY; thiosulfate oxidation carrier protein SoxY
+  rpa:TX73_023200 K17222 soxA; sulfur oxidation c-type cytochrome SoxA
+  rpa:TX73_023205 K17223 soxX; sulfur oxidation c-type cytochrome SoxX
+
+rpa04146 Peroxisome (12)
+
+  rpa:TX73_001165 K04565 superoxide dismutase family protein
+  rpa:TX73_003170 K03426 nudC; NAD(+) diphosphatase
+  rpa:TX73_006475 K00803 FAD-binding oxidoreductase
+  rpa:TX73_007445 K01897 AMP-binding protein
+  rpa:TX73_008710 K04564 superoxide dismutase
+  rpa:TX73_011050 K01897 AMP-binding protein
+  rpa:TX73_013125 K01640 hydroxymethylglutaryl-CoA lyase
+  rpa:TX73_019855 K00031 NADP-dependent isocitrate dehydrogenase
+  rpa:TX73_020940 K01897 long-chain fatty acid--CoA ligase
+  rpa:TX73_022105 K01897 long-chain fatty acid--CoA ligase
+  rpa:TX73_024270 K01796 CaiB/BaiF CoA-transferase family protein
+  rpa:TX73_025065 K01897 AMP-binding protein
+
+rpa00780 Biotin metabolism (12)
+
+  rpa:TX73_002215 K00647 fabB; beta-ketoacyl-ACP synthase I
+  rpa:TX73_002220 K00208 fabI; enoyl-ACP reductase FabI
+  rpa:TX73_006160 K00208 fabI; enoyl-ACP reductase FabI
+  rpa:TX73_008650 K00059 SDR family oxidoreductase
+  rpa:TX73_010405 K09458 beta-ketoacyl-ACP synthase
+  rpa:TX73_010410 K09458 beta-ketoacyl-ACP synthase
+  rpa:TX73_015215 K03524 biotin--[acetyl-CoA-carboxylase] ligase
+  rpa:TX73_015890 K09458 fabF; beta-ketoacyl-ACP synthase II
+  rpa:TX73_015900 K00059 fabG; 3-oxoacyl-[acyl-carrier-protein] reductase
+  rpa:TX73_023730 K00208 fabI; enoyl-ACP reductase FabI
+  rpa:TX73_023875 K00059 SDR family NAD(P)-dependent oxidoreductase
+  rpa:TX73_024180 K00059 3-oxoacyl-ACP reductase FabG
+
+rpa00541 Biosynthesis of various nucleotide sugars (12)
+
+  rpa:TX73_000610 K01790 rfbC; dTDP-4-dehydrorhamnose 3,5-epimerase
+  rpa:TX73_000615 K00067 rfbD; dTDP-4-dehydrorhamnose reductase
+  rpa:TX73_004570 K00963 galU; UTP--glucose-1-phosphate uridylyltransferase GalU
+  rpa:TX73_017175 K16011 mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase
+  rpa:TX73_020315 K00966 nucleotidyltransferase family protein
+  rpa:TX73_020475 K15856 GDP-mannose 4,6-dehydratase
+  rpa:TX73_020615 K13017 DegT/DnrJ/EryC1/StrS family aminotransferase
+  rpa:TX73_020650 K03274 rfaD; ADP-glyceromanno-heptose 6-epimerase
+  rpa:TX73_020660 K03271 D-sedoheptulose 7-phosphate isomerase
+  rpa:TX73_020820 K00012 UDP-glucose/GDP-mannose dehydrogenase family protein
+  rpa:TX73_020975 K00978 rfbF; glucose-1-phosphate cytidylyltransferase
+  rpa:TX73_020980 K01709 rfbG; CDP-glucose 4,6-dehydratase
+
+rpa00627 Aminobenzoate degradation (12)
+
+  rpa:TX73_003425 K04110 benzoate-CoA ligase family protein
+  rpa:TX73_005180 K04101 class III extradiol dioxygenase family protein
+  rpa:TX73_008920 K01426 amidase family protein
+  rpa:TX73_009315 K01692 enoyl-CoA hydratase
+  rpa:TX73_014525 K01721 nthA; nitrile hydratase subunit alpha
+  rpa:TX73_017805 K01426 amidase
+  rpa:TX73_018755 K03862 aromatic ring-hydroxylating dioxygenase subunit alpha
+  rpa:TX73_018805 K01426 amidase family protein
+  rpa:TX73_024420 K10221 amidohydrolase family protein
+  rpa:TX73_024425 K04100 ligA; protocatechuate 4,5-dioxygenase subunit alpha
+  rpa:TX73_024430 K04101 class III extradiol dioxygenase subunit beta
+  rpa:TX73_024435 K10219 Gfo/Idh/MocA family oxidoreductase
+
+rpa00250 Alanine, aspartate and glutamate metabolism (11)
+
+  rpa:TX73_002390 K00135 NAD-dependent succinate-semialdehyde dehydrogenase
+  rpa:TX73_004590 K00265 gltB; glutamate synthase large subunit
+  rpa:TX73_004595 K00266 glutamate synthase subunit beta
+  rpa:TX73_005065 K01915 glutamine synthetase family protein
+  rpa:TX73_006555 K01956 carA; glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit
+  rpa:TX73_013785 K00820 glmS; glutamine--fructose-6-phosphate transaminase (isomerizing)
+  rpa:TX73_015390 K01915 glnA; type I glutamate--ammonia ligase
+  rpa:TX73_015990 K00764 purF; amidophosphoribosyltransferase
+  rpa:TX73_019760 K01756 purB; adenylosuccinate lyase
+  rpa:TX73_021090 K01955 carB; carbamoyl-phosphate synthase large subunit
+  rpa:TX73_024530 K00266 sulfide/dihydroorotate dehydrogenase-like FAD/NAD-binding protein
+
+rpa00051 Fructose and mannose metabolism (11)
+
+  rpa:TX73_001840 K02793 PTS sugar transporter subunit IIA
+  rpa:TX73_001970 K16370 1-phosphofructokinase family hexose kinase
+  rpa:TX73_004845 K01623 fructose-bisphosphate aldolase class I
+  rpa:TX73_012945 K11532 glpX; class II fructose-bisphosphatase
+  rpa:TX73_017170 K15778 phosphomannomutase/phosphoglucomutase
+  rpa:TX73_017175 K16011 mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase
+  rpa:TX73_017975 K18335 SDR family oxidoreductase
+  rpa:TX73_017980 K21883 SDR family NAD(P)-dependent oxidoreductase
+  rpa:TX73_020315 K00966 nucleotidyltransferase family protein
+  rpa:TX73_020475 K15856 GDP-mannose 4,6-dehydratase
+  rpa:TX73_024105 K01624 fba; fructose-bisphosphate aldolase class II
+
+rpa00500 Starch and sucrose metabolism (10)
+
+  rpa:TX73_004570 K00963 galU; UTP--glucose-1-phosphate uridylyltransferase GalU
+  rpa:TX73_007630 K01835 pgm; phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+  rpa:TX73_017120 K01214 glgX; glycogen debranching protein GlgX
+  rpa:TX73_017170 K15778 phosphomannomutase/phosphoglucomutase
+  rpa:TX73_018870 K00705 malQ; 4-alpha-glucanotransferase
+  rpa:TX73_018880 K05343 treS; maltose alpha-D-glucosyltransferase
+  rpa:TX73_018895 K01236 treZ; malto-oligosyltrehalose trehalohydrolase
+  rpa:TX73_020975 K00978 rfbF; glucose-1-phosphate cytidylyltransferase
+  rpa:TX73_023810 K01179 cellulase family glycosylhydrolase
+  rpa:TX73_024230 K01087 otsB; trehalose-phosphatase
+
+rpa00900 Terpenoid backbone biosynthesis (10)
+
+  rpa:TX73_002715 K00795 polyprenyl synthetase family protein
+  rpa:TX73_002750 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_004215 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_005345 K02523 polyprenyl synthetase family protein
+  rpa:TX73_007810 K13789 polyprenyl synthetase family protein
+  rpa:TX73_007880 K10960 geranylgeranyl diphosphate reductase
+  rpa:TX73_011915 K00626 acetyl-CoA C-acetyltransferase
+  rpa:TX73_017940 K00626 acetyl-CoA acetyltransferase
+  rpa:TX73_019245 K00632 acetyl-CoA C-acyltransferase
+  rpa:TX73_022530 K00626 acetyl-CoA C-acetyltransferase
+
+rpa00240 Pyrimidine metabolism (10)
+
+  rpa:TX73_005495 K01465 dihydroorotase
+  rpa:TX73_005660 K01489 cytidine deaminase
+  rpa:TX73_006555 K01956 carA; glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit
+  rpa:TX73_008975 K06016 Zn-dependent hydrolase
+  rpa:TX73_014555 K04765 mazG; nucleoside triphosphate pyrophosphohydrolase
+  rpa:TX73_015440 K00525 vitamin B12-dependent ribonucleotide reductase
+  rpa:TX73_016125 K01465 dihydroorotase
+  rpa:TX73_021090 K01955 carB; carbamoyl-phosphate synthase large subunit
+  rpa:TX73_022205 K09019 malonic semialdehyde reductase
+  rpa:TX73_023115 K09769 TIGR00282 family metallophosphoesterase
+
+rpa00770 Pantothenate and CoA biosynthesis (10)
+
+  rpa:TX73_008310 K01652 acetolactate synthase large subunit
+  rpa:TX73_008975 K06016 Zn-dependent hydrolase
+  rpa:TX73_010465 K01652 acetolactate synthase 3 large subunit
+  rpa:TX73_010470 K01653 ilvN; acetolactate synthase small subunit
+  rpa:TX73_011105 K00128 aldehyde dehydrogenase family protein
+  rpa:TX73_014555 K04765 mazG; nucleoside triphosphate pyrophosphohydrolase
+  rpa:TX73_019485 K01652 thiamine pyrophosphate-binding protein
+  rpa:TX73_021005 K01652 thiamine pyrophosphate-binding protein
+  rpa:TX73_022650 K00826 branched-chain amino acid aminotransferase
+  rpa:TX73_023700 K00077 2-dehydropantoate 2-reductase
+
+rpa00910 Nitrogen metabolism (10)
+
+  rpa:TX73_001200 K01673 carbonic anhydrase
+  rpa:TX73_004095 K01674 carbonic anhydrase
+  rpa:TX73_004590 K00265 gltB; glutamate synthase large subunit
+  rpa:TX73_004595 K00266 glutamate synthase subunit beta
+  rpa:TX73_005065 K01915 glutamine synthetase family protein
+  rpa:TX73_010625 K00376 nosZ; TAT-dependent nitrous-oxide reductase
+  rpa:TX73_012165 K02588 AAA family ATPase
+  rpa:TX73_015390 K01915 glnA; type I glutamate--ammonia ligase
+  rpa:TX73_024460 K00459 nitronate monooxygenase family protein
+  rpa:TX73_024530 K00266 sulfide/dihydroorotate dehydrogenase-like FAD/NAD-binding protein
+
+rpa00670 One carbon pool by folate (9)
+
+  rpa:TX73_000145 K00602 purH; bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+  rpa:TX73_000960 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_012185 K01758 PLP-dependent aspartate aminotransferase family protein
+  rpa:TX73_014835 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_019175 K00297 metF; methylenetetrahydrofolate reductase [NAD(P)H]
+  rpa:TX73_019180 K00548 metH; methionine synthase
+  rpa:TX73_019925 K00605 gcvT; glycine cleavage system aminomethyltransferase GcvT
+  rpa:TX73_019930 K02437 gcvH; glycine cleavage system protein GcvH
+  rpa:TX73_020810 K00789 metK; methionine adenosyltransferase
+
+rpa01232 Nucleotide metabolism (9)
+
+  rpa:TX73_005660 K01489 cytidine deaminase
+  rpa:TX73_011355 K00088 guaB; IMP dehydrogenase
+  rpa:TX73_014555 K04765 mazG; nucleoside triphosphate pyrophosphohydrolase
+  rpa:TX73_014785 K01129 deoxyguanosinetriphosphate triphosphohydrolase
+  rpa:TX73_015070 K01487 nucleoside deaminase
+  rpa:TX73_015440 K00525 vitamin B12-dependent ribonucleotide reductase
+  rpa:TX73_016700 K00939 adenylate kinase
+  rpa:TX73_019760 K01756 purB; adenylosuccinate lyase
+  rpa:TX73_022600 K05810 pgeF; peptidoglycan editing factor PgeF
+
+rpa00785 Lipoic acid metabolism (9)
+
+  rpa:TX73_000960 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_000975 K00658 odhB; 2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase
+  rpa:TX73_000980 K00164 2-oxoglutarate dehydrogenase E1 component
+  rpa:TX73_014835 K00382 lpdA; dihydrolipoyl dehydrogenase
+  rpa:TX73_014840 K00627 pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase
+  rpa:TX73_014850 K00162 pyruvate dehydrogenase complex E1 component subunit beta
+  rpa:TX73_014855 K00161 pdhA; pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha
+  rpa:TX73_019925 K00605 gcvT; glycine cleavage system aminomethyltransferase GcvT
+  rpa:TX73_019930 K02437 gcvH; glycine cleavage system protein GcvH
+
+rpa00330 Arginine and proline metabolism (9)
+
+  rpa:TX73_004485 K01581 type III PLP-dependent enzyme
+  rpa:TX73_008920 K01426 amidase family protein
+  rpa:TX73_011105 K00128 aldehyde dehydrogenase family protein
+  rpa:TX73_013435 K00824 D-amino-acid transaminase
+  rpa:TX73_017805 K01426 amidase
+  rpa:TX73_018805 K01426 amidase family protein
+  rpa:TX73_019330 K00819 hpnO; aminobacteriohopanetriol synthase HpnO
+  rpa:TX73_022630 K00286 proC; pyrroline-5-carboxylate reductase
+  rpa:TX73_024575 K01476 rocF; arginase
+
+rpa00450 Selenocompound metabolism (8)
+
+  rpa:TX73_001930 K01761 megL; methionine gamma-lyase
+  rpa:TX73_003890 K00955 cysC; adenylyl-sulfate kinase
+  rpa:TX73_007310 K11717 family 2A encapsulin nanocompartment cargo protein cysteine desulfurase
+  rpa:TX73_011255 K00549 methionine synthase
+  rpa:TX73_012185 K01758 PLP-dependent aspartate aminotransferase family protein
+  rpa:TX73_012755 K11717 cysteine desulfurase
+  rpa:TX73_014385 K01874 metG; methionine--tRNA ligase
+  rpa:TX73_019180 K00548 metH; methionine synthase
+
+rpa00220 Arginine biosynthesis (8)
+
+  rpa:TX73_005065 K01915 glutamine synthetase family protein
+  rpa:TX73_006555 K01956 carA; glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit
+  rpa:TX73_012025 K01438 ArgE/DapE family deacylase
+  rpa:TX73_012875 K00145 argC; N-acetyl-gamma-glutamyl-phosphate reductase
+  rpa:TX73_015390 K01915 glnA; type I glutamate--ammonia ligase
+  rpa:TX73_015700 K01438 ArgE/DapE family deacylase
+  rpa:TX73_021090 K01955 carB; carbamoyl-phosphate synthase large subunit
+  rpa:TX73_024575 K01476 rocF; arginase
+
+rpa00790 Folate biosynthesis (8)
+
+  rpa:TX73_005285 K03638 moaB; molybdenum cofactor biosynthesis protein B
+  rpa:TX73_005995 K03635 molybdenum cofactor biosynthesis protein MoaE
+  rpa:TX73_006110 K10026 queE; 7-carboxy-7-deazaguanine synthase
+  rpa:TX73_009450 K00950 folK; 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+  rpa:TX73_009455 K01633 folB; dihydroneopterin aldolase
+  rpa:TX73_009460 K00796 folP; dihydropteroate synthase
+  rpa:TX73_015040 K03750 molybdopterin molybdotransferase MoeA
+  rpa:TX73_018935 K03752 mobA; molybdenum cofactor guanylyltransferase MobA
+
+rpa00710 Carbon fixation by Calvin cycle (8)
+
+  rpa:TX73_004845 K01623 fructose-bisphosphate aldolase class I
+  rpa:TX73_004865 K00134 gap; type I glyceraldehyde-3-phosphate dehydrogenase
+  rpa:TX73_004870 K00615 tkt; transketolase
+  rpa:TX73_008015 K01602 ribulose bisphosphate carboxylase small subunit
+  rpa:TX73_012945 K11532 glpX; class II fructose-bisphosphatase
+  rpa:TX73_019755 K01783 rpe; ribulose-phosphate 3-epimerase
+  rpa:TX73_024105 K01624 fba; fructose-bisphosphate aldolase class II
+  rpa:TX73_024115 K28462 phosphoribulokinase
+
+rpa00290 Valine, leucine and isoleucine biosynthesis (7)
+
+  rpa:TX73_008310 K01652 acetolactate synthase large subunit
+  rpa:TX73_010310 K01649 cimA; citramalate synthase
+  rpa:TX73_010465 K01652 acetolactate synthase 3 large subunit
+  rpa:TX73_010470 K01653 ilvN; acetolactate synthase small subunit
+  rpa:TX73_019485 K01652 thiamine pyrophosphate-binding protein
+  rpa:TX73_021005 K01652 thiamine pyrophosphate-binding protein
+  rpa:TX73_022650 K00826 branched-chain amino acid aminotransferase
+
+rpa00660 C5-Branched dibasic acid metabolism (7)
+
+  rpa:TX73_000985 K01902 sucD; succinate--CoA ligase subunit alpha
+  rpa:TX73_008275 K18289 CaiB/BaiF CoA-transferase family protein
+  rpa:TX73_008310 K01652 acetolactate synthase large subunit
+  rpa:TX73_010465 K01652 acetolactate synthase 3 large subunit
+  rpa:TX73_010470 K01653 ilvN; acetolactate synthase small subunit
+  rpa:TX73_019485 K01652 thiamine pyrophosphate-binding protein
+  rpa:TX73_021005 K01652 thiamine pyrophosphate-binding protein
+
+rpa00760 Nicotinate and nicotinamide metabolism (7)
+
+  rpa:TX73_002390 K00135 NAD-dependent succinate-semialdehyde dehydrogenase
+  rpa:TX73_003170 K03426 nudC; NAD(+) diphosphatase
+  rpa:TX73_005415 K00767 nadC; carboxylating nicotinate-nucleotide diphosphorylase
+  rpa:TX73_010235 K01916 NAD+ synthase
+  rpa:TX73_014555 K04765 mazG; nucleoside triphosphate pyrophosphohydrolase
+  rpa:TX73_021670 K00325 NAD(P)(+) transhydrogenase (Re/Si-specific) subunit beta
+  rpa:TX73_021680 K00324 Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha
+
+rpa04122 Sulfur relay system (7)
+
+  rpa:TX73_005285 K03638 moaB; molybdenum cofactor biosynthesis protein B
+  rpa:TX73_005995 K03635 molybdenum cofactor biosynthesis protein MoaE
+  rpa:TX73_006000 K03636 moaD; molybdopterin converting factor subunit 1
+  rpa:TX73_012735 K04487 cysteine desulfurase family protein
+  rpa:TX73_018525 K03154 thiS; sulfur carrier protein ThiS
+  rpa:TX73_018725 K01011 sseA; 3-mercaptopyruvate sulfurtransferase
+  rpa:TX73_018930 K04085 sulfurtransferase TusA family protein
+
+rpa03060 Protein export (6)
+
+  rpa:TX73_001085 K03110 ftsY; signal recognition particle-docking protein FtsY
+  rpa:TX73_001270 K03106 ffh; signal recognition particle protein
+  rpa:TX73_003270 K03217 yidC; membrane protein insertase YidC
+  rpa:TX73_014660 K03072 secD; protein translocase subunit SecD
+  rpa:TX73_014665 K03210 yajC; preprotein translocase subunit YajC
+  rpa:TX73_014965 K03075 secG; preprotein translocase subunit SecG
+
+rpa03070 Bacterial secretion system (6)
+
+  rpa:TX73_001085 K03110 ftsY; signal recognition particle-docking protein FtsY
+  rpa:TX73_001270 K03106 ffh; signal recognition particle protein
+  rpa:TX73_003270 K03217 yidC; membrane protein insertase YidC
+  rpa:TX73_014660 K03072 secD; protein translocase subunit SecD
+  rpa:TX73_014665 K03210 yajC; preprotein translocase subunit YajC
+  rpa:TX73_014965 K03075 secG; preprotein translocase subunit SecG
+
+rpa00643 Styrene degradation (6)
+
+  rpa:TX73_008920 K01426 amidase family protein
+  rpa:TX73_011980 K01040 CoA synthetase
+  rpa:TX73_014525 K01721 nthA; nitrile hydratase subunit alpha
+  rpa:TX73_017805 K01426 amidase
+  rpa:TX73_018805 K01426 amidase family protein
+  rpa:TX73_024155 K01040 CoA synthetase
+
+rpa00625 Chloroalkane and chloroalkene degradation (6)
+
+  rpa:TX73_006190 K13954 yiaY; L-threonine dehydrogenase
+  rpa:TX73_010080 K00121 S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase
+  rpa:TX73_011105 K00128 aldehyde dehydrogenase family protein
+  rpa:TX73_012165 K02588 AAA family ATPase
+  rpa:TX73_012955 K01560 haloacid dehalogenase type II
+  rpa:TX73_015865 K13953 alcohol dehydrogenase
+
+rpa00410 beta-Alanine metabolism (6)
+
+  rpa:TX73_004220 K01782 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_008975 K06016 Zn-dependent hydrolase
+  rpa:TX73_009315 K01692 enoyl-CoA hydratase
+  rpa:TX73_011105 K00128 aldehyde dehydrogenase family protein
+  rpa:TX73_011920 K00248 acyl-CoA dehydrogenase family protein
+  rpa:TX73_017860 K00140 CoA-acylating methylmalonate-semialdehyde dehydrogenase
+
+rpa00521 Streptomycin biosynthesis (6)
+
+  rpa:TX73_000610 K01790 rfbC; dTDP-4-dehydrorhamnose 3,5-epimerase
+  rpa:TX73_000615 K00067 rfbD; dTDP-4-dehydrorhamnose reductase
+  rpa:TX73_004830 K01092 inositol monophosphatase family protein
+  rpa:TX73_007630 K01835 pgm; phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+  rpa:TX73_017170 K15778 phosphomannomutase/phosphoglucomutase
+  rpa:TX73_021000 NAD-dependent epimerase/dehydratase family protein
+
+rpa03030 DNA replication (6)
+
+  rpa:TX73_000010 K02338 dnaN; DNA polymerase III subunit beta
+  rpa:TX73_003185 K02343 DNA polymerase III subunit gamma/tau
+  rpa:TX73_006605 K02316 dnaG; DNA primase
+  rpa:TX73_014570 K03111 single-stranded DNA-binding protein
+  rpa:TX73_015825 K02339 DNA polymerase III subunit chi
+  rpa:TX73_015955 K02314 replicative DNA helicase
+
+rpa01503 Cationic antimicrobial peptide (CAMP) resistance (6)
+
+  rpa:TX73_000490 K03585 efflux RND transporter periplasmic adaptor subunit
+  rpa:TX73_007695 K03585 efflux RND transporter periplasmic adaptor subunit
+  rpa:TX73_009940 K04771 Do family serine endopeptidase
+  rpa:TX73_014170 K03585 efflux RND transporter periplasmic adaptor subunit
+  rpa:TX73_018065 K04771 Do family serine endopeptidase
+  rpa:TX73_023750 K04771 Do family serine endopeptidase
+
+rpa00130 Ubiquinone and other terpenoid-quinone biosynthesis (6)
+
+  rpa:TX73_004805 K24843 SCP2 sterol-binding domain-containing protein
+  rpa:TX73_004810 K24844 U32 family peptidase
+  rpa:TX73_004815 K24845 U32 family peptidase
+  rpa:TX73_009195 K01075 thioesterase family protein
+  rpa:TX73_013845 K03185 UbiH/UbiF family hydroxylase
+  rpa:TX73_013995 K19267 SDR family oxidoreductase
+
+rpa01501 beta-Lactam resistance (6)
+
+  rpa:TX73_000490 K03585 efflux RND transporter periplasmic adaptor subunit
+  rpa:TX73_007695 K03585 efflux RND transporter periplasmic adaptor subunit
+  rpa:TX73_009605 K05366 PBP1A family penicillin-binding protein
+  rpa:TX73_013300 K18139 efflux transporter outer membrane subunit
+  rpa:TX73_014170 K03585 efflux RND transporter periplasmic adaptor subunit
+  rpa:TX73_014770 K01207 nagZ; beta-N-acetylhexosaminidase
+
+rpa00400 Phenylalanine, tyrosine and tryptophan biosynthesis (6)
+
+  rpa:TX73_000140 K01626 3-deoxy-7-phosphoheptulonate synthase
+  rpa:TX73_008185 K06001 TrpB-like pyridoxal phosphate-dependent enzyme
+  rpa:TX73_010225 K01626 3-deoxy-7-phosphoheptulonate synthase class II
+  rpa:TX73_020995 K01735 3-dehydroquinate synthase
+  rpa:TX73_023040 K00220 prephenate/arogenate dehydrogenase family protein
+  rpa:TX73_023350 K13503 anthranilate synthase component I
+
+rpa03430 Mismatch repair (5)
+
+  rpa:TX73_000010 K02338 dnaN; DNA polymerase III subunit beta
+  rpa:TX73_003185 K02343 DNA polymerase III subunit gamma/tau
+  rpa:TX73_014570 K03111 single-stranded DNA-binding protein
+  rpa:TX73_015825 K02339 DNA polymerase III subunit chi
+  rpa:TX73_018165 K03657 UvrD-helicase domain-containing protein
+
+rpa00300 Lysine biosynthesis (5)
+
+  rpa:TX73_001190 K00133 aspartate-semialdehyde dehydrogenase
+  rpa:TX73_003125 K00928 aspartate kinase
+  rpa:TX73_012940 K00003 homoserine dehydrogenase
+  rpa:TX73_016500 K01714 dihydrodipicolinate synthase family protein
+  rpa:TX73_018315 K01929 UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase
+
+rpa00970 Aminoacyl-tRNA biosynthesis (5)
+
+  rpa:TX73_002360 K01867 trpS; tryptophan--tRNA ligase
+  rpa:TX73_005380 K01879 glyS; glycine--tRNA ligase subunit beta
+  rpa:TX73_014385 K01874 metG; methionine--tRNA ligase
+  rpa:TX73_015055 K01886 glutamine--tRNA ligase/YqeY domain fusion protein
+  rpa:TX73_024350 K04566 lysine--tRNA ligase
+
+rpa00907 Pinene, camphor and geraniol degradation (5)
+
+  rpa:TX73_004220 K01782 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_008765 K00632 acetyl-CoA C-acetyltransferase
+  rpa:TX73_009315 K01692 enoyl-CoA hydratase
+  rpa:TX73_013125 K01640 hydroxymethylglutaryl-CoA lyase
+  rpa:TX73_019245 K00632 acetyl-CoA C-acyltransferase
+
+rpa03440 Homologous recombination (4)
+
+  rpa:TX73_000010 K02338 dnaN; DNA polymerase III subunit beta
+  rpa:TX73_003185 K02343 DNA polymerase III subunit gamma/tau
+  rpa:TX73_014570 K03111 single-stranded DNA-binding protein
+  rpa:TX73_015825 K02339 DNA polymerase III subunit chi
+
+rpa00040 Pentose and glucuronate interconversions (4)
+
+  rpa:TX73_004570 K00963 galU; UTP--glucose-1-phosphate uridylyltransferase GalU
+  rpa:TX73_017970 K22186 dihydroxy-acid dehydratase family protein
+  rpa:TX73_019755 K01783 rpe; ribulose-phosphate 3-epimerase
+  rpa:TX73_020820 K00012 UDP-glucose/GDP-mannose dehydrogenase family protein
+
+rpa00730 Thiamine metabolism (4)
+
+  rpa:TX73_004840 K00788 thiamine phosphate synthase
+  rpa:TX73_012735 K04487 cysteine desulfurase family protein
+  rpa:TX73_016700 K00939 adenylate kinase
+  rpa:TX73_018535 K00788 thiamine phosphate synthase
+
+rpa00052 Galactose metabolism (4)
+
+  rpa:TX73_001970 K16370 1-phosphofructokinase family hexose kinase
+  rpa:TX73_004570 K00963 galU; UTP--glucose-1-phosphate uridylyltransferase GalU
+  rpa:TX73_007630 K01835 pgm; phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+  rpa:TX73_017170 K15778 phosphomannomutase/phosphoglucomutase
+
+rpa00430 Taurine and hypotaurine metabolism (4)
+
+  rpa:TX73_000130 K00681 ggt; gamma-glutamyltransferase
+  rpa:TX73_004005 K00681 gamma-glutamyltransferase
+  rpa:TX73_012055 K00681 ggt; gamma-glutamyltransferase
+  rpa:TX73_022905 K00681 ggt; gamma-glutamyltransferase
+
+rpa03018 RNA degradation (4)
+
+  rpa:TX73_000905 K08311 RNA pyrophosphohydrolase
+  rpa:TX73_001540 K03628 rho; transcription termination factor Rho
+  rpa:TX73_012670 K08300 Rne/Rng family ribonuclease
+  rpa:TX73_016160 K12573 rnr; ribonuclease R
+
+rpa00460 Cyanoamino acid metabolism (4)
+
+  rpa:TX73_000130 K00681 ggt; gamma-glutamyltransferase
+  rpa:TX73_004005 K00681 gamma-glutamyltransferase
+  rpa:TX73_012055 K00681 ggt; gamma-glutamyltransferase
+  rpa:TX73_022905 K00681 ggt; gamma-glutamyltransferase
+
+rpa00261 Monobactam biosynthesis (4)
+
+  rpa:TX73_001190 K00133 aspartate-semialdehyde dehydrogenase
+  rpa:TX73_003125 K00928 aspartate kinase
+  rpa:TX73_003890 K00955 cysC; adenylyl-sulfate kinase
+  rpa:TX73_016500 K01714 dihydrodipicolinate synthase family protein
+
+rpa04980 Cobalamin transport and metabolism (4)
+
+  rpa:TX73_009410 K07588 meaB; methylmalonyl Co-A mutase-associated GTPase MeaB
+  rpa:TX73_009435 K01847 scpA; methylmalonyl-CoA mutase
+  rpa:TX73_019180 K00548 metH; methionine synthase
+  rpa:TX73_024685 K00798 cob(I)yrinic acid a,c-diamide adenosyltransferase
+
+rpa04148 Efferocytosis (3)
+
+  rpa:TX73_004485 K01581 type III PLP-dependent enzyme
+  rpa:TX73_005225 K00411 petA; ubiquinol-cytochrome c reductase iron-sulfur subunit
+  rpa:TX73_024575 K01476 rocF; arginase
+
+rpa00470 D-Amino acid metabolism (3)
+
+  rpa:TX73_013435 K00824 D-amino-acid transaminase
+  rpa:TX73_018270 K01921 D-alanine--D-alanine ligase
+  rpa:TX73_020535 K19802 dipeptide epimerase
+
+rpa00564 Glycerophospholipid metabolism (3)
+
+  rpa:TX73_006705 K00570 class I SAM-dependent methyltransferase
+  rpa:TX73_019415 K03735 ethanolamine ammonia-lyase subunit EutB
+  rpa:TX73_024595 K00655 1-acyl-sn-glycerol-3-phosphate acyltransferase
+
+rpa00930 Caprolactam degradation (3)
+
+  rpa:TX73_004220 K01782 3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein
+  rpa:TX73_009315 K01692 enoyl-CoA hydratase
+  rpa:TX73_018780 K01053 SMP-30/gluconolactonase/LRE family protein
+
+rpa00364 Fluorobenzoate degradation (3)
+
+  rpa:TX73_006130 K01061 dienelactone hydrolase family protein
+  rpa:TX73_014525 K01721 nthA; nitrile hydratase subunit alpha
+  rpa:TX73_025110 K01061 dienelactone hydrolase family protein
+
+rpa00550 Peptidoglycan biosynthesis (3)
+
+  rpa:TX73_009605 K05366 PBP1A family penicillin-binding protein
+  rpa:TX73_018270 K01921 D-alanine--D-alanine ligase
+  rpa:TX73_018315 K01929 UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase
+
+rpa00523 Polyketide sugar unit biosynthesis (3)
+
+  rpa:TX73_000610 K01790 rfbC; dTDP-4-dehydrorhamnose 3,5-epimerase
+  rpa:TX73_000615 K00067 rfbD; dTDP-4-dehydrorhamnose reductase
+  rpa:TX73_021000 NAD-dependent epimerase/dehydratase family protein
+
+rpa00626 Naphthalene degradation (3)
+
+  rpa:TX73_006190 K13954 yiaY; L-threonine dehydrogenase
+  rpa:TX73_010080 K00121 S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase
+  rpa:TX73_015865 K13953 alcohol dehydrogenase
+
+rpa00053 Ascorbate and aldarate metabolism (3)
+
+  rpa:TX73_011105 K00128 aldehyde dehydrogenase family protein
+  rpa:TX73_018780 K01053 SMP-30/gluconolactonase/LRE family protein
+  rpa:TX73_020820 K00012 UDP-glucose/GDP-mannose dehydrogenase family protein
+
+rpa02060 Phosphotransferase system (PTS) (3)
+
+  rpa:TX73_000270 K02806 ptsN; PTS IIA-like nitrogen regulatory protein PtsN
+  rpa:TX73_001835 K02784 HPr family phosphocarrier protein
+  rpa:TX73_001840 K02793 PTS sugar transporter subunit IIA
+
+rpa00984 Steroid degradation (3)
+
+  rpa:TX73_008765 K00632 acetyl-CoA C-acetyltransferase
+  rpa:TX73_019245 K00632 acetyl-CoA C-acyltransferase
+  rpa:TX73_024270 K01796 CaiB/BaiF CoA-transferase family protein
+
+rpa00361 Chlorocyclohexane and chlorobenzene degradation (3)
+
+  rpa:TX73_006130 K01061 dienelactone hydrolase family protein
+  rpa:TX73_012955 K01560 haloacid dehalogenase type II
+  rpa:TX73_025110 K01061 dienelactone hydrolase family protein
+
+rpa00561 Glycerolipid metabolism (3)
+
+  rpa:TX73_009245 K11529 glycerate kinase
+  rpa:TX73_011105 K00128 aldehyde dehydrogenase family protein
+  rpa:TX73_024595 K00655 1-acyl-sn-glycerol-3-phosphate acyltransferase
+
+rpa00906 Carotenoid biosynthesis (3)
+
+  rpa:TX73_007770 K10027 phytoene desaturase
+  rpa:TX73_007775 K02291 phytoene/squalene synthase family protein
+  rpa:TX73_007805 K09845 crtI; phytoene desaturase family protein
+
+rpa00740 Riboflavin metabolism (2)
+
+  rpa:TX73_014125 K11752 ribD; bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD
+  rpa:TX73_014130 K00793 riboflavin synthase
+
+rpa00592 alpha-Linolenic acid metabolism (2)
+
+  rpa:TX73_008765 K00632 acetyl-CoA C-acetyltransferase
+  rpa:TX73_019245 K00632 acetyl-CoA C-acyltransferase
+
+rpa00562 Inositol phosphate metabolism (2)
+
+  rpa:TX73_004830 K01092 inositol monophosphatase family protein
+  rpa:TX73_017860 K00140 CoA-acylating methylmalonate-semialdehyde dehydrogenase
+
+rpa03420 Nucleotide excision repair (2)
+
+  rpa:TX73_014580 K03701 uvrA; excinuclease ABC subunit UvrA
+  rpa:TX73_018165 K03657 UvrD-helicase domain-containing protein
+
+rpa03410 Base excision repair (2)
+
+  rpa:TX73_005325 K21929 uracil-DNA glycosylase
+  rpa:TX73_005485 K01246 DNA-3-methyladenine glycosylase I
+
+rpa01310 Nitrogen cycle (2)
+
+  rpa:TX73_010625 K00376 nosZ; TAT-dependent nitrous-oxide reductase
+  rpa:TX73_012165 K02588 AAA family ATPase
+
+rpa00340 Histidine metabolism (2)
+
+  rpa:TX73_005905 K02502 ATP phosphoribosyltransferase regulatory subunit
+  rpa:TX73_011105 K00128 aldehyde dehydrogenase family protein
+
+rpa00540 Lipopolysaccharide biosynthesis (2)
+
+  rpa:TX73_010395 K02517 lipid A biosynthesis lauroyl acyltransferase
+  rpa:TX73_015080 K09949 lpxI; UDP-2,3-diacylglucosamine diphosphatase LpxI
+
+rpa00623 Toluene degradation (2)
+
+  rpa:TX73_006130 K01061 dienelactone hydrolase family protein
+  rpa:TX73_025110 K01061 dienelactone hydrolase family protein
+
+rpa01502 Vancomycin resistance (2)
+
+  rpa:TX73_018270 K01921 D-alanine--D-alanine ligase
+  rpa:TX73_018315 K01929 UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate--D-alanyl-D-alanine ligase
+
+rpa00909 Sesquiterpenoid and triterpenoid biosynthesis (1)
+
+  rpa:TX73_019370 K06045 shc; squalene--hopene cyclase
+
+rpa00750 Vitamin B6 metabolism (1)
+
+  rpa:TX73_022330 K00831 phosphoserine transaminase
+
+rpa00440 Phosphonate and phosphinate metabolism (1)
+
+  rpa:TX73_014395 K06167 MBL fold metallo-hydrolase
+
+rpa00999 Biosynthesis of various plant secondary metabolites; Including: Crocin biosynthesis, Ginsenoside biosynthesis, Saponin adjuvant biosynthesis, Cannabidiol biosynthesis, Mugineic acid biosynthesis, Pentagalloylglucose biosynthesis, Benzoxazinoid biosynthesis, Gramine biosynthesis, Coumarin biosynthesis, Furanocoumarin biosynthesis, Hordatine biosynthesis, Podophyllotoxin biosynthesis (1)
+
+  rpa:TX73_020810 K00789 metK; methionine adenosyltransferase
+
+rpa00525 Acarbose and validamycin biosynthesis (1)
+
+  rpa:TX73_021000 NAD-dependent epimerase/dehydratase family protein
+
+rpa03450 Non-homologous end-joining (1)
+
+  rpa:TX73_018920 K10979 Ku protein
+
+rpa04981 Folate transport and metabolism (1)
+
+  rpa:TX73_019180 K00548 metH; methionine synthase
+
+rpa00566 Sulfoquinovose metabolism (1)
+
+  rpa:TX73_003165 K18478 sugar kinase
+
+rpa00074 Mycolic acid biosynthesis (1)
+
+  rpa:TX73_015905 K00645 fabD; ACP S-malonyltransferase
+
+rpa00975 Biosynthesis of various siderophores (1)
+
+  rpa:TX73_012335 K24110 AMP-binding protein
+
+rpa00633 Nitrotoluene degradation (1)
+
+  rpa:TX73_022825 K10680 alkene reductase
+
+rpa01040 Biosynthesis of unsaturated fatty acids (1)
+
+  rpa:TX73_001415 K10805 tesB; acyl-CoA thioesterase II
+
+rpa00543 Exopolysaccharide biosynthesis (1)
+
+  rpa:TX73_017735 K00640 cysE; serine O-acetyltransferase
+
+rpa04141 Protein processing in endoplasmic reticulum (1)
+
+  rpa:TX73_015005 K13993 Hsp20/alpha crystallin family protein
+
+rpa00405 Phenazine biosynthesis (1)
+
+  rpa:TX73_018595 K20940 flavin-dependent oxidoreductase
+
+rpa00401 Novobiocin biosynthesis (1)
+
+  rpa:TX73_023040 K00220 prephenate/arogenate dehydrogenase family protein
