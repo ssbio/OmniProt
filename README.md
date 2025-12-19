@@ -180,9 +180,8 @@ Major modules (specified in `OmniProt.yml`):
 
 | Output File | Interpretation |
 |------------|---------------|
-| `output.xlsx` | Growth predictions + validation metrics |
+| `output.xlsx` | Redundancy-corrected determinants |
 | `SHAP_importance_mc_*.xlsx` | Monte-Carlo feature ranks |
-| `cluster_members_PR_*.xlsx` | Redundancy-corrected determinants |
 | `figures/` | Final visualizations |
 
 ---
