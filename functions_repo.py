@@ -129,8 +129,13 @@ def _canon_acc2kegg(acc2kegg_df: pd.DataFrame) -> pd.DataFrame:
         cl = str(c).lower()
         if "uniprot" in cl or "accession" in cl:
             rename[c] = "UniProt"
-        elif "kegg" in cl:
+        # elif "kegg" in cl:
+        #     rename[c] = "KEGG"
+        elif cl.lower() == "kegg":
             rename[c] = "KEGG"
+        elif cl.lower() == "keggid":
+            rename[c] = "KEGGID"
+
     if rename:
         df = df.rename(columns=rename)
     if "UniProt" not in df.columns or "KEGG" not in df.columns:
@@ -138,6 +143,9 @@ def _canon_acc2kegg(acc2kegg_df: pd.DataFrame) -> pd.DataFrame:
             df = df.rename(columns={df.columns[0]: "UniProt", df.columns[1]: "KEGG"})
         else:
             raise ValueError("AccessionToKEGG must have at least two columns (UniProt, KEGG).")
+    # ensure KEGG is a Series, not DataFrame
+    if isinstance(df["KEGG"], pd.DataFrame):
+        df["KEGG"] = df["KEGG"].iloc[:,0]
     df["UniProt"] = df["UniProt"].astype(str).str.strip()
     df["KEGG"]    = df["KEGG"].astype(str).str.strip()
     df = df.dropna(subset=["UniProt"]).drop_duplicates()

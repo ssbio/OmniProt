@@ -412,7 +412,13 @@ _gc.collect()
 if torch.cuda.is_available():
     torch.cuda.empty_cache()
 
-if TO_RUN:
+from pathlib import Path
+
+def done(path: str) -> bool:
+    """Return True if a checkpoint/output file already exists."""
+    return Path(path).exists()
+
+if TO_RUN and not done(save_SHAP_dict):
     # =====================================================================
     #  SHAP MONTE-CARLO IMPORTANCE
     # =====================================================================
@@ -466,107 +472,118 @@ if TO_RUN:
     # Each Cluster represents condition-specific genes that are likely co-regulated.
     # Delta-RMSE > 0 Ò cluster carries predictive/mechanistic signal.
     # Delta-RMSE < 0 Ò potential noise/confounding.
+    if not done(cluster_SHAP_AP_file):
+        xls = pd.ExcelFile(save_SHAP_file, engine="openpyxl")
+        outputworkbook = cluster_SHAP_AP_file
+        
+        shap_df_loaded = pd.read_excel(xls, sheet_name="aggregated_shaps", index_col=0)
+        by_group_df_out_loaded = None
+        if "shap_by_group" in xls.sheet_names:
+            by_group_df = pd.read_excel(xls, sheet_name="shap_by_group", index_col=0)
 
-    xls = pd.ExcelFile(save_SHAP_file, engine="openpyxl")
-    outputworkbook = cluster_SHAP_AP_file
+        # --- Global feature clustering with AP ---
+        set_seed(42)
+        ap_assign, ap_exemplars, ap_model = ap_cluster_features_global(
+            by_group_df, scale=True, similarity="cosine",
+            pref_quantile=0.50, damping=0.80, random_state=42
+        )
+
+        ap_assign_df = ap_assign.reset_index().rename(columns={"index":"feature", "cluster":"cluster"})
+        ap_exemplars_df = (
+            ap_exemplars.reset_index().rename(columns={"index":"cluster", 0:"exemplar"})
+            if hasattr(ap_exemplars, "reset_index") else ap_exemplars
+        )
+
+        # --- Optional: refine locally within each global cluster ---
+        # (call kept as-is from source; helper expected to exist in environment)
+        set_seed(42)
+        ap_local_df = ap_refine_local_subclusters(
+            by_group_df, ap_assign, scale=True, similarity="cosine",
+            pref_quantile=0.50, damping=0.80, random_state=42,
+            min_cluster_size=6
+        )
+
+        # --- Cluster conditions (local condition modules) ---
+        set_seed(42)
+        assign_cond, exemplars_cond, _ = ap_cluster_conditions(
+            by_group_df, scale=True, similarity="cosine",
+            pref_quantile=0.50, damping=0.80, random_state=42
+        )
+        assign_cond_df = assign_cond.reset_index().rename(columns={"index":"condition", "cond_cluster":"cond_cluster"})
+        exemplars_cond_df = (
+            exemplars_cond.reset_index().rename(columns={"index":"cond_cluster", 0:"cond_exemplar"})
+            if hasattr(exemplars_cond, "reset_index") else exemplars_cond
+        )
+
+        # --- Use AP clusters for necessity testing (DELTA-RMSE by cluster) ---
+        set_seed(42)
+        cluster_imp_df_cond, base_rmse_list = cluster_permutation_importance(
+            pipe_template=pipe_factory_cpu,
+            X=X, y=y, cond_keys=cond_keys, always_train_keys=always_train_keys,
+            cluster_assign=ap_assign,                 # <--- AP feature clusters here
+            test_k=3, k_valid_groups=3, K_AUG=KAUG_global,
+            rng=42, verbose=True, exhaustive=True, shuffle_combos=True,
+            conditional=True, glm_alpha=1.0
+        )
+
+        with pd.ExcelWriter(outputworkbook, engine="openpyxl") as xl:
+            by_group_df.to_excel(xl, sheet_name="shap_by_group")
+            ap_assign_df.to_excel(xl, sheet_name="feat_clusters", index=False)
+            ap_exemplars.to_excel(xl, sheet_name="feat_exemplars")
+            ap_local_df.to_excel(xl, sheet_name="feat_local_subclusters", index=False)
+            assign_cond_df.to_excel(xl, sheet_name="cond_clusters", index=False)
+            exemplars_cond.to_excel(xl, sheet_name="cond_exemplars")
+            cluster_imp_df_cond.to_excel(xl, sheet_name="cluster_dRMSE_cond", index=False)
     
-    shap_df_loaded = pd.read_excel(xls, sheet_name="aggregated_shaps", index_col=0)
-    by_group_df_out_loaded = None
-    if "shap_by_group" in xls.sheet_names:
-        by_group_df = pd.read_excel(xls, sheet_name="shap_by_group", index_col=0)
-
-    # --- Global feature clustering with AP ---
-    set_seed(42)
-    ap_assign, ap_exemplars, ap_model = ap_cluster_features_global(
-        by_group_df, scale=True, similarity="cosine",
-        pref_quantile=0.50, damping=0.80, random_state=42
-    )
-
-    ap_assign_df = ap_assign.reset_index().rename(columns={"index":"feature", "cluster":"cluster"})
-    ap_exemplars_df = (
-        ap_exemplars.reset_index().rename(columns={"index":"cluster", 0:"exemplar"})
-        if hasattr(ap_exemplars, "reset_index") else ap_exemplars
-    )
-
-    # --- Optional: refine locally within each global cluster ---
-    # (call kept as-is from source; helper expected to exist in environment)
-    set_seed(42)
-    ap_local_df = ap_refine_local_subclusters(
-        by_group_df, ap_assign, scale=True, similarity="cosine",
-        pref_quantile=0.50, damping=0.80, random_state=42,
-        min_cluster_size=6
-    )
-
-    # --- Cluster conditions (local condition modules) ---
-    set_seed(42)
-    assign_cond, exemplars_cond, _ = ap_cluster_conditions(
-        by_group_df, scale=True, similarity="cosine",
-        pref_quantile=0.50, damping=0.80, random_state=42
-    )
-    assign_cond_df = assign_cond.reset_index().rename(columns={"index":"condition", "cond_cluster":"cond_cluster"})
-    exemplars_cond_df = (
-        exemplars_cond.reset_index().rename(columns={"index":"cond_cluster", 0:"cond_exemplar"})
-        if hasattr(exemplars_cond, "reset_index") else exemplars_cond
-    )
-
-    # --- Use AP clusters for necessity testing (DELTA-RMSE by cluster) ---
-    set_seed(42)
-    cluster_imp_df_cond, base_rmse_list = cluster_permutation_importance(
-        pipe_template=pipe_factory_cpu,
-        X=X, y=y, cond_keys=cond_keys, always_train_keys=always_train_keys,
-        cluster_assign=ap_assign,                 # <--- AP feature clusters here
-        test_k=3, k_valid_groups=3, K_AUG=KAUG_global,
-        rng=42, verbose=True, exhaustive=True, shuffle_combos=True,
-        conditional=True, glm_alpha=1.0
-    )
-
-    with pd.ExcelWriter(outputworkbook, engine="openpyxl") as xl:
-        by_group_df.to_excel(xl, sheet_name="shap_by_group")
-        ap_assign_df.to_excel(xl, sheet_name="feat_clusters", index=False)
-        ap_exemplars.to_excel(xl, sheet_name="feat_exemplars")
-        ap_local_df.to_excel(xl, sheet_name="feat_local_subclusters", index=False)
-        assign_cond_df.to_excel(xl, sheet_name="cond_clusters", index=False)
-        exemplars_cond.to_excel(xl, sheet_name="cond_exemplars")
-        cluster_imp_df_cond.to_excel(xl, sheet_name="cluster_dRMSE_cond", index=False)
-    
-    
+        print("Wrote AP clustering checkpoint:", outputworkbook)
+    else:
+        print("Skipping AP clustering; checkpoint exists:", cluster_SHAP_AP_file)
     import gc
     gc.collect()
     if torch.cuda.is_available():
         torch.cuda.empty_cache()
+else:
+    # If already done, just reload for downstream steps
+    import pickle, gzip
+    with gzip.open(save_SHAP_dict, "rb") as f:
+        data = pickle.load(f)
+    shap_df = data["shap_df"]
+    shap_raw = data["shap_raw"]
+    print("Loaded SHAP checkpoint from", save_SHAP_dict)
 
 
-    # =====================================================================
-    #  FEATURE-LEVEL CONDITIONAL DELTA-RMSE
-    # =====================================================================
-    # Two modes on residualized permutations to address collinearity/redundancy:
-    # (1) outside_cluster  condition on non-cluster features (credits shared signal to feature)
-    # (2) all_others      condition on all other features (penalizes redundancy; unique signal)
 
-    # Reload artifacts for ranking exports
-    file_path = cluster_SHAP_AP_file
+# =====================================================================
+#  FEATURE-LEVEL CONDITIONAL DELTA-RMSE
+# =====================================================================
+# Two modes on residualized permutations to address collinearity/redundancy:
+# (1) outside_cluster  condition on non-cluster features (credits shared signal to feature)
+# (2) all_others      condition on all other features (penalizes redundancy; unique signal)
 
-    by_group_df = pd.read_excel(file_path, sheet_name="shap_by_group", engine="openpyxl")
-    ap_assign_df = pd.read_excel(file_path, sheet_name="feat_clusters", engine="openpyxl")
-    ap_exemplars = pd.read_excel(file_path, sheet_name="feat_exemplars", engine="openpyxl")
-    ap_local_df = pd.read_excel(file_path, sheet_name="feat_local_subclusters", engine="openpyxl")
-    assign_cond_df = pd.read_excel(file_path, sheet_name="cond_clusters", engine="openpyxl")
-    exemplars_cond = pd.read_excel(file_path, sheet_name="cond_exemplars", engine="openpyxl")
-    cluster_imp_df_cond = pd.read_excel(file_path, sheet_name="cluster_dRMSE_cond", engine="openpyxl")
+# Reload artifacts for ranking exports
+file_path = cluster_SHAP_AP_file
 
-    ap_assign = ap_assign_df["cluster"]
+by_group_df = pd.read_excel(file_path, sheet_name="shap_by_group", engine="openpyxl")
+ap_assign_df = pd.read_excel(file_path, sheet_name="feat_clusters", engine="openpyxl")
+ap_exemplars = pd.read_excel(file_path, sheet_name="feat_exemplars", engine="openpyxl")
+ap_local_df = pd.read_excel(file_path, sheet_name="feat_local_subclusters", engine="openpyxl")
+assign_cond_df = pd.read_excel(file_path, sheet_name="cond_clusters", engine="openpyxl")
+exemplars_cond = pd.read_excel(file_path, sheet_name="cond_exemplars", engine="openpyxl")
+cluster_imp_df_cond = pd.read_excel(file_path, sheet_name="cluster_dRMSE_cond", engine="openpyxl")
 
-    # Feature names (adjust slices to match how X was built)
-    feature_names = list(df.columns[5:5 + n_features])
-    cluster_assign = ap_assign  # length d, cluster id per feature
+ap_assign = ap_assign_df["cluster"]
 
-    # Optional protein mapping (to UniProt):
-    acc2kegg = pd.read_excel(Kegg2UniprotFile, sheet_name="MasterDict")
-    feature_to_protein_df = ap_assign_df.copy()
-    feature_to_protein_df["protein_id"] = feature_to_protein_df["feature"]
-       
+# Feature names (adjust slices to match how X was built)
+feature_names = list(df.columns[5:5 + n_features])
+cluster_assign = ap_assign  # length d, cluster id per feature
 
-    # ---- (1) outside_cluster ----
+# Optional protein mapping (to UniProt):
+acc2kegg = pd.read_excel(Kegg2UniprotFile, sheet_name="MasterDict")
+feature_to_protein_df = ap_assign_df.copy()
+feature_to_protein_df["protein_id"] = feature_to_protein_df["feature"]
+
+# ---- (1) outside_cluster ----
+if not done(Feature_level_outside_conditionalFile):
     set_seed(42)
     out_file = export_cluster_rankings_to_xlsx(
         pipe_factory=pipe_factory,     # <- use this for loky
@@ -584,14 +601,16 @@ if TO_RUN:
         backend="loky",      # process-based
         use_cuda=True, device_ids=[0]
     )
-    
-    import gc
-    gc.collect()
-    if torch.cuda.is_available():
-        torch.cuda.empty_cache()
+else:
+    print("Skipping outside_cluster export; exists:", Feature_level_outside_conditionalFile)
+import gc
+gc.collect()
+if torch.cuda.is_available():
+    torch.cuda.empty_cache()
 
 
-    # ---- (2) all_others ----
+# ---- (2) all_others ----
+if not done(Feature_level_Others_conditionalFile):
     set_seed(42)
     out_file = export_cluster_rankings_to_xlsx(
         pipe_factory=pipe_factory,     # <- use this for loky
@@ -609,12 +628,13 @@ if TO_RUN:
         backend="loky",      # process-based
         use_cuda=True, device_ids=[0]
     )
-    
-    import gc
-    gc.collect()
-    if torch.cuda.is_available():
-        torch.cuda.empty_cache()
+else:
+    print("Skipping all_others export; exists:", Feature_level_Others_conditionalFile)
 
+import gc
+gc.collect()
+if torch.cuda.is_available():
+    torch.cuda.empty_cache()
 
 # Heatmap using SHAP values from the "shap_by_group" sheet of cluster_members_PR.xlsx
 # Creates a SEPARATE heatmap per family (parent cluster).
@@ -1351,6 +1371,8 @@ if TO_RUN:
     print(f"The selected clusters are: {WANTED}")
 
 
+
+
     # ============================================
     # Per-feature quadrant/rank significance
     # ============================================
@@ -1433,7 +1455,12 @@ if TO_RUN:
                 .to_excel(xl, index=False, sheet_name="feature_sig_passers_only")
 
     print(f"Wrote: {Path(out_xlsx).resolve()}")
+    out_xlsx2 = Path(cluster_membersFiles)
+    with pd.ExcelWriter(out_xlsx2, engine="openpyxl", mode="a", if_sheet_exists="replace" ) as xl2:
+        # All clusters concatenated
+        ranked.to_excel(xl2, index=False, sheet_name="all_clusters_concat")
 
+    print(f"Wrote: {Path(out_xlsx).resolve()}")
     # ============================================
     #  (Optional) Condition-specific extraction
     # ============================================
@@ -1530,7 +1557,10 @@ if TO_RUN:
         HH_out.to_excel(xl, index=False, sheet_name="HH_consensus_rank")
 
     print(f"Ranked {len(HH_out)} HH + consensus-pass genes; wrote sheet 'HH_consensus_rank' in {Path(IN_XLSX_GENES).resolve()}")
-
+else:
+    print("Skipping cluster_members + plots; checkpoint exists:", cluster_membersFiles)
+    
+if TO_RUN:    
     # ============================================
     # Pan-condition normalization & interpretation sheets
     # ============================================
@@ -1580,6 +1610,7 @@ if TO_RUN:
     # ---------------------------------------------------------------------
     shap = pd.read_excel(infile, sheet_name=sheet_shap)
     feat = pd.read_excel(infile, sheet_name=sheet_feat)
+    # feat = pd.read_excel(Path(feature_QuadrantsAndRanks_file), sheet_name=sheet_feat)
 
     shap["feature"] = shap["feature"].astype(str).str.upper()
     feat["feature"] = feat["feature"].astype(str).str.upper()
@@ -1740,15 +1771,15 @@ if TO_RUN:
     except Exception:
         pass
 
-    # cluster_selection_table_pr (optional; carries family/condition context)
+    # cluster_selection_table_pr (optional; carries cluster/condition context)
     try:
         clsel = pd.read_excel(infile, sheet_name="cluster_selection_table_pr")
-        if {"family","condition_key"}.issubset(clsel.columns):
+        if {"cluster","condition_key"}.issubset(clsel.columns):
             ck = (
-                clsel.groupby("family", dropna=False)["condition_key"]
+                clsel.groupby("cluster", dropna=False)["condition_key"]
                 .apply(lambda s: "|".join(sorted(pd.unique(s.dropna()))))
                 .reset_index()
-                .rename(columns={"family": "parent_cluster",
+                .rename(columns={"cluster": "parent_cluster",
                                 "condition_key": "cluster_condition_keys"})
             )
             merged = merged.merge(ck, on="parent_cluster", how="left")
@@ -1940,7 +1971,7 @@ if TO_RUN:
     # -------------------------
     TopGenes_HH = (
         pd.read_excel(
-            "per_feature_quadrants_ranks_AND_significance_1a.xlsx",
+            feature_QuadrantsAndRanks_file,
             sheet_name="HH_consensus_rank"
         )["feature"]
         .astype(str).str.strip().str.upper()
